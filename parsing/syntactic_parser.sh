@@ -4,7 +4,7 @@ java -cp "*" -mx2g edu.stanford.nlp.parser.lexparser.LexicalizedParser -sentence
 
 # Command 2
 
-java -cp "*" -mx2g edu.stanford.nlp.parser.lexparser.LexicalizedParser -PCFG -headFinder edu.stanford.nlp.trees.LeftHeadFinder -sentences newline "train_1" -writeOutPutFiles "AllPlainTextTweets" -saveToSerializedFile "SerializedModel1"
+java -cp "*" -mx2g edu.stanford.nlp.parser.lexparser.LexicalizedParser -PCFG -headFinder edu.stanford.nlp.trees.LeftHeadFinder -sentences newline -train "train_1" -saveToSerializedFile "SerializedModel1" -writeOutputFiles "AllPlainTextTweets"
 
 # Command 3
 
