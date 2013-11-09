@@ -1,0 +1,3 @@
+[submodule "TwitterNLP"]
+	path = TwitterNLP
+	url = https://github.com/spinningarrow/TwitterNLP.git
