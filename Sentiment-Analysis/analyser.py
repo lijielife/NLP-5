@@ -1,51 +1,117 @@
-import nltk, sys
-from nltk.classify.naivebayes import NaiveBayesClassifier
+import re, math, collections, itertools, os, sys
+import nltk, nltk.classify.util, nltk.metrics
+from nltk.classify import NaiveBayesClassifier
+from nltk.metrics import BigramAssocMeasures
+from nltk.probability import FreqDist, ConditionalFreqDist
+from nltk.collocations import BigramCollocationFinder
 
-def get_words_in_tweets(tweets):
-	all_words = []
-	for (words, sentiment) in tweets:
-		all_words.extend (words)
-	return all_words
+RT_POLARITY_POS_FILE = 'positive.txt'
+RT_POLARITY_NEG_FILE = 'negative.txt'
+TWEETS_FILE = 'SampleSet3.txt'
 
-def get_word_features(wordlist):
-	wordlist = nltk.FreqDist(wordlist)
-	word_features = wordlist.keys()
-	return word_features
+def create_word_scores():
+	#creates lists of all positive and negative words
+	positiveWords = []
+	negativeWords = []
+	with open(RT_POLARITY_POS_FILE, 'r') as posSentences:
+		for i in posSentences:
+			positiveWord = re.findall(r"[\w']+|[.,!?;]", i.rstrip())
+			positiveWords.append(positiveWord)
+	with open(RT_POLARITY_NEG_FILE, 'r') as negSentences:
+		for i in negSentences:
+			negativeWord = re.findall(r"[\w']+|[.,!?;]", i.rstrip())
+			negativeWords.append(negativeWord)
+	positiveWords = list(itertools.chain( * positiveWords))
+	negativeWords = list(itertools.chain( * negativeWords))
 
-def extract_features (document):
-	document_words = set(document)
-	features = {}
-	for word in word_features:
-		features['contains(%s)' % word] = (word in document_words)
-	return features
+	#build frequency distibution of all words and then frequency distributions of words within positive and negative labels
+	word_frequency_distribution = FreqDist()
+	cond_word_frequency_distribution = ConditionalFreqDist()
+	for word in positiveWords:
+		word_frequency_distribution.inc(word.lower())
+		cond_word_frequency_distribution['pos'].inc(word.lower())
+	for word in negativeWords:
+		word_frequency_distribution.inc(word.lower())
+		cond_word_frequency_distribution['neg'].inc(word.lower())
 
-def read_tweets_from_file_of_sentiment(fname, sentiment):
-    tweets = []
-    f = open(fname, 'r')
-    line = f.readline()
-    while line != '':
-        tweets.append([line.lower(), sentiment])
-        line = f.readline()
-    f.close()
-    return tweets
+	#finds the number of positive and negative words, as well as the total number of words
+	positive_word_count = cond_word_frequency_distribution['pos'].N()
+	negative_word_count = cond_word_frequency_distribution['neg'].N()
+	total_word_count = positive_word_count + negative_word_count
 
-pos_tweets = read_tweets_from_file_of_sentiment('positive.txt', 'positive')
-neg_tweets = read_tweets_from_file_of_sentiment('negative.txt', 'negative')
+	#builds dictionary of word scores based on chi-squared test
+	word_scores = {}
+	for word, frequency in word_frequency_distribution.iteritems():
+		positive_score = BigramAssocMeasures.chi_sq(cond_word_frequency_distribution['pos'][word], (frequency, positive_word_count), total_word_count)
+		negative_score = BigramAssocMeasures.chi_sq(cond_word_frequency_distribution['neg'][word], (frequency, negative_word_count), total_word_count)
+		word_scores[word] = positive_score + negative_score
 
-tweets = []
-for (words, sentiment) in pos_tweets + neg_tweets:
-	words_filtered = [e.lower() for e in words.split() if len(e) >= 3]
-	tweets.append((words_filtered, sentiment))
-word_features = get_word_features(get_words_in_tweets(tweets))
+	return word_scores
 
-training_set = nltk.classify.apply_features(extract_features, tweets)
-classifier = nltk.NaiveBayesClassifier.train(training_set)
+#finds word scores
 
 
-def classify_tweet(tweet):
-    return classifier.classify(extract_features(nltk.word_tokenize(tweet)))
+#finds the best 'number' words based on word scores
+def find_best_words(word_scores):
+	best_vals = sorted(word_scores.iteritems(), key=lambda (w, s): s, reverse=True)
+	best_words = set([w for w, s in best_vals])
+	return best_words
 
-print(classify_tweet(str(sys.argv[1]).lower()))
+#creates feature selection mechanism that only uses best words
+def best_word_features(words):
+	return dict([(word, True) for word in words if word in best_words])
 
+
+def best_bigram_word_feats(words, score_fn=BigramAssocMeasures.chi_sq, n=200):
+    bigram_finder = BigramCollocationFinder.from_words(words)
+    bigrams = bigram_finder.nbest(score_fn, n)
+    d = dict([(bigram, True) for bigram in bigrams])
+    d.update(best_word_features(words))
+    return d
+
+def buildTrainingSet():
+	posFeatures = []
+	negFeatures = []
+	#http://stackoverflow.com/questions/367155/splitting-a-string-into-words-and-punctuation
+	#breaks up the sentences into lists of individual words (as selected by the input mechanism) and appends 'pos' or 'neg' after each list
+	with open(RT_POLARITY_POS_FILE, 'r') as posSentences:
+		for line in posSentences:
+			i = line.lower()
+			positiveWords = re.findall(r"[\w']+|[.,!?;]", i.rstrip())
+			positiveWords = [feature_select(positiveWords), 'positive']
+			posFeatures.append(positiveWords)
+	with open(RT_POLARITY_NEG_FILE, 'r') as negSentences:
+		for line in negSentences:
+			i = line.lower()
+			negativeWords = re.findall(r"[\w']+|[.,!?;]", i.rstrip())
+			negativeWords = [feature_select(negativeWords), 'negative']
+			negFeatures.append(negativeWords)
+
+	#selects 3/4 of the features to be used for training and 1/4 to be used for testing
+	trainFeatures = posFeatures + negFeatures
+	return trainFeatures
+
+
+def classifyTweet (classifier, feature_select, tweet):
+	tweet = tweet.lower()
+	words = re.findall(r"[\w']+|[.,!?;]", tweet.rstrip())
+	words = feature_select(words)
+	return classifier.classify(words)
+
+word_scores = create_word_scores()
+feature_select = best_bigram_word_feats
+best_words = find_best_words(word_scores)
+trainFeatures = buildTrainingSet()
+classifier = nltk.NaiveBayesClassifier.train(trainFeatures)
+
+if sys.argv[1]:
+	print(classifyTweet(classifier, feature_select, str(sys.argv[1]).lower()))
+
+with open(TWEETS_FILE, 'r') as tweets:
+	for line in tweets:
+		tweet = line.lower()
+		words = re.findall(r"[\w']+|[.,!?;]", tweet.rstrip())
+		words = feature_select(words)
+		print classifier.classify(words) + ":" + tweet
 
 
