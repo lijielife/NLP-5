@@ -30,7 +30,7 @@ def read_tweets_from_file_of_sentiment(fname, sentiment):
     return tweets
 
 pos_tweets = read_tweets_from_file_of_sentiment('positive.txt', 'positive')
-neg_tweets = read_tweets_from_file_of_sentiment('negative.txt', 'nagative')
+neg_tweets = read_tweets_from_file_of_sentiment('negative.txt', 'negative')
 
 tweets = []
 for (words, sentiment) in pos_tweets + neg_tweets:
