@@ -1,4 +1,4 @@
-import re, math, collections, itertools, os, sys
+import re, math, collections, itertools, os, sys, pickle
 import nltk, nltk.classify.util, nltk.metrics
 from nltk.classify import NaiveBayesClassifier
 from nltk.metrics import BigramAssocMeasures
@@ -102,9 +102,9 @@ word_scores = 0
 feature_select = 0
 best_words = 0
 train_features = 0
-
+classifier = 0
 def getClassifiedDictionary (sentences):
-	global word_scores, feature_select, best_words, train_features
+	global word_scores, feature_select, best_words, train_features, classifier
 	word_scores = create_word_scores()
 	feature_select = best_bigram_word_feats
 	best_words = find_best_words(word_scores)
@@ -123,6 +123,48 @@ def getClassifiedDictionary (sentences):
 
 	return classified_dict			
 
+def serializeClassifier ():
+	global classifier
+	w = open('classifier','w')
+	w.write(pickle.dumps(classifier))
+	return "done"
+
+def deserializeClassifier ():
+	global word_scores, feature_select, best_words, train_features, classifier
+	word_scores = create_word_scores()
+	feature_select = best_bigram_word_feats
+	best_words = find_best_words(word_scores)
+	train_features = buildTrainingSet()
+	with open('classifier', 'r') as file:
+		content = file.read()
+		classifier = pickle.loads(content)
+		sentence = "i am sad"
+		words = re.findall(r"[\w']+|[.,!?;]", sentence.rstrip())
+		words = feature_select(words)
+		print classifier.classify(words)
+
+def classify (sentences):
+	global word_scores, feature_select, best_words, train_features, classifier
+	word_scores = create_word_scores()
+	feature_select = best_bigram_word_feats
+	best_words = find_best_words(word_scores)
+	train_features = buildTrainingSet()
+	classified_dict = {}
+	negative = []
+	positive = []
+	with open('classifier', 'r') as file:
+		content = file.read()
+		classifier = pickle.loads(content)
+		classified_dict["negative"] = negative
+		classified_dict["positive"] = positive
+		for line in sentences:
+			tweet = line.lower()
+			words = re.findall(r"[\w']+|[.,!?;]", sentences.rstrip())
+			words = feature_select(words)
+			classified_dict[classifier.classify(words)].append(line)
+
+	return classified_dict					
+
 # if sys.argv[1]:
 # 	print(classifyTweet(classifier, feature_select, str(sys.argv[1]).lower()))
 
@@ -131,6 +173,4 @@ def getClassifiedDictionary (sentences):
 # 	for line in tweets:
 # 		sentences.append(line)
 
-# getClassifiedDictionary(sentences)
-
-
+# print getClassifiedDictionary(["this is lame", "This is brilliant"])
