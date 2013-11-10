@@ -115,7 +115,7 @@ def getClassifiedDictionary (sentences):
 	positive = []
 	classified_dict["negative"] = negative
 	classified_dict["positive"] = positive
-	for line in tweets:
+	for line in sentences:
 		tweet = line.lower()
 		words = re.findall(r"[\w']+|[.,!?;]", tweet.rstrip())
 		words = feature_select(words)
@@ -128,7 +128,7 @@ def getClassifiedDictionary (sentences):
 # 	sentences = []
 # 	for line in tweets:
 # 		sentences.append(line)
-		
+
 # getClassifiedDictionary(sentences)
 
 
