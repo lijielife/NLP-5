@@ -98,20 +98,37 @@ def classifyTweet (classifier, feature_select, tweet):
 	words = feature_select(words)
 	return classifier.classify(words)
 
-word_scores = create_word_scores()
-feature_select = best_bigram_word_feats
-best_words = find_best_words(word_scores)
-trainFeatures = buildTrainingSet()
-classifier = nltk.NaiveBayesClassifier.train(trainFeatures)
+word_scores = 0
+feature_select = 0
+best_words = 0
+train_features = 0
 
-if sys.argv[1]:
-	print(classifyTweet(classifier, feature_select, str(sys.argv[1]).lower()))
-
-with open(TWEETS_FILE, 'r') as tweets:
+def getClassifiedDictionary (sentences):
+	global word_scores, feature_select, best_words, train_features
+	word_scores = create_word_scores()
+	feature_select = best_bigram_word_feats
+	best_words = find_best_words(word_scores)
+	train_features = buildTrainingSet()
+	classifier = nltk.NaiveBayesClassifier.train(train_features)
+	classified_dict = {}
+	negative = []
+	positive = []
+	classified_dict["negative"] = negative
+	classified_dict["positive"] = positive
 	for line in tweets:
 		tweet = line.lower()
 		words = re.findall(r"[\w']+|[.,!?;]", tweet.rstrip())
 		words = feature_select(words)
-		print classifier.classify(words) + ":" + tweet
+		classified_dict[classifier.classify(words)].append(line)
+
+# if sys.argv[1]:
+# 	print(classifyTweet(classifier, feature_select, str(sys.argv[1]).lower()))
+
+# with open(TWEETS_FILE, 'r') as tweets:
+# 	sentences = []
+# 	for line in tweets:
+# 		sentences.append(line)
+		
+# getClassifiedDictionary(sentences)
 
 
