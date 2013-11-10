@@ -121,6 +121,8 @@ def getClassifiedDictionary (sentences):
 		words = feature_select(words)
 		classified_dict[classifier.classify(words)].append(line)
 
+	return classified_dict			
+
 # if sys.argv[1]:
 # 	print(classifyTweet(classifier, feature_select, str(sys.argv[1]).lower()))
 
