@@ -5,7 +5,7 @@ import sys
 
 # Both in file and out file must be provided!
 r = open(sys.argv[1])
-w = open(sys.argv[2])
+w = open(sys.argv[2], 'a')
 
 count = 0
 
