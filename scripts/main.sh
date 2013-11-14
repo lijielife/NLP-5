@@ -1,13 +1,15 @@
 #!/usr/bin/env bash
 
-# Get plaintext tweets from xml files
+echo "Extracting corpus... "
+tar xvf corpus.tar.gz
+echo "Done."
 
 echo -n "Converting XML files to single file with plaintext tweets... "
 ./plaintextify.rb
 echo "Done."
 
 echo -n "Normalising data... "
-./normalise.rb
+./normalise.rb tweets.plaintext tweets.plaintext.normal
 echo "Done."
 
 echo -n "Adding part-of-speech tags... "
