@@ -1,3 +1,6 @@
 [submodule "TwitterNLP"]
 	path = TwitterNLP
 	url = https://github.com/spinningarrow/TwitterNLP.git
+[submodule "twittersummarizer"]
+	path = twittersummarizer
+	url = https://github.com/spinningarrow/twittersummarizer.git
