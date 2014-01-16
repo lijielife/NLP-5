@@ -26,4 +26,4 @@ The [final assignment report](https://github.com/radzinzki/NLP/blob/master/Assig
 
 Credits: 
 - [Andy Bromberg's excellent blogpost detailing an example of Sentiment Analysis](http://andybromberg.com/sentiment-analysis-python/)
-- [badhessian.org's Collecting real-time Twitter data with the Streaming API](http://badhessian.org/2012/10/collecting-real-time-twitter-data-with-the-streaming-api/)
+- [badhessian.org: Collecting real-time Twitter data with the Streaming API](http://badhessian.org/2012/10/collecting-real-time-twitter-data-with-the-streaming-api/)
