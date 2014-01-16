@@ -21,6 +21,4 @@ The application is also deployed on Heroku and can be found at: http://twittersu
 Unfortunately, due to the storage constraints of the free tier of Heroku, we only have a very small subset of our data there. Only a few queries, such as “iPad” or “iPad air” will give worthwhile results. This serves 
 to give an idea as to how the final application should look like after the local deployment.
 
-
- The [final assignment report](https://github.com/radzinzki/NLP/blob/master/AssignmentReport.pdf) detials all the techniques used for the project, including the processes for training the parser and tagger, our data pipeline, and how the application works.
-=============
+The [final assignment report](https://github.com/radzinzki/NLP/blob/master/AssignmentReport.pdf) detials all the techniques used for the project, including the processes for training the parser and tagger, our data pipeline, and how the application works.
