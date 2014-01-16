@@ -1,0 +1,686 @@
+(ROOT
+  (S
+    (NP
+      (NP (NN Everyone))
+      (VP (VBG waiting)
+        (PP (IN for)
+          (NP (DT the) (JJ next) (NN innovation)))
+        (ADVP (RB but) (HT #Apple))))
+    (ADVP (RB just))
+    (VP (VBD announced)
+      (NP
+        (NP (JJR thinner/faster) (NNS versions))
+        (PP (IN of)
+          (NP (PRP$ its) (NNS devices)))))
+    (URL http://t.co/RIYe2uwhlv")))
+
+(ROOT
+  (S
+    (NP (VBG Updating!) (HT #mavericks) (HT #imac))
+    (VP (HT #apple))
+    (URL http://t.co/G7Fk2I6aON)))
+
+(ROOT
+  (S
+    (VP
+      (NP
+        (INTJ (UH Hey,))
+        (NP (JJ free) (NNP Mavericks) (NN update!))))
+    (HT #Apple)))
+
+(ROOT
+  (NP
+    (NP (RB Some))
+    (NP
+      (NP (JJ real) (NNS innovations))
+      (PP (IN at)
+        (NP (DT the) (HT #AppleEvent) (NN today.))))))
+
+(ROOT
+  (S
+    (VP (VBG Judging)
+      (PP (IN by)
+        (NP
+          (NP (DT the) (NN age))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN audience))
+              (SBAR
+                (S
+                  (NP (PRP they))
+                  (VP (MD should)
+                    (VP (VB have)
+                      (VP (VBN introduced)
+                        (NP (JJ BIG) (NNS keys.))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Our))
+    (VP (VBZ competition.they're)
+      (NP (NNP confused.)))))
+
+(ROOT
+  (S
+    (NP (NN Now))
+    (VP (VBZ they're)
+      (S
+        (VP (VBG turning)
+          (NP (NNS tablets))
+          (PP (IN into)
+            (NP
+              (NP (NNS PCs,))
+              (NP (NNP &amp;) (NNS PCs))))
+          (PP (IN into)
+            (NP (NNS tablets.))))))
+    (URL http://t.co/8FG58ADUwW) (HT #AppleEvent)))
+
+(ROOT
+  (FRAG (RB So)
+    (PP (IN with)
+      (NP
+        (NP (NN cross) (NN platform))
+        (SBAR
+          (S
+            (NP (NNP iWork) (NN suite,))
+            (VP (MD will)
+              (NP (NNP MS) (NNP Office))
+              (S
+                (VP (VB be)
+                  (VP (VBN sherlocked?)))))))))))
+
+(ROOT
+  (PP (IN for)
+    (NP
+      (NP (NN people))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (NP
+            (NP (NN use) (NNP MS) (NNP Office))
+            (PP (IN on)
+              (NP
+                (NP (DT a) (NNP Mac,))
+                (FRAG
+                  (INTJ (UH ahem)))))))
+          (VP (HT #keynote)
+            (VP (HT #apple)))))))
+
+(ROOT
+  (S
+    (ADVP (RB if))
+    (NP (PRP i))
+    (VP (VBP wanted)
+      (NP
+        (NP (NNP BBM))
+        (SBAR
+          (S
+            (NP (PRP i))
+            (VP (MD would)
+              (VP (VB buy)
+                (NP
+                  (NP (DT a) (NN blackberry!))
+                  (PP (HT #iphone)
+                    (NP (HT #Apple))))))))))
+    (HT #BBMsucks)))
+
+(ROOT
+  (S
+    (VP (HT #AppleBeeHangz)
+      (PP (IN with)
+        (NP (NN momma.))))
+    (HT #thinkinofmyfriends)))
+
+(ROOT
+  (NP (NNP Neighborhood) (NNP Grill) (URL http://t.co/xY12UCbuMY)))
+
+(ROOT
+  (S
+    (NP (JJ OS) (NNP X) (JJ Mavericks!) (HT #apple))
+    (VP (HT #mavericks))
+    (HT #osx)))
+
+(ROOT
+  (FRAG
+    (NP (HT #apple) (HT #macosx))
+    (PP (HT #osx)
+      (NP (CD 10.9)))
+    (HT #maverick)
+    (ADVP (HT #freedownload))
+    (PP (IN for)
+      (NP (CD 10.6)))
+    (CC or)
+    (ADVP (RB later))
+    (PP (IN from)
+      (NP (NNP App) (NNP Store) (HT #sysadmin) (USR @) (NNP SVA)))
+    (NP (NNP MFA))
+    (URL http://t.co/QyKljTUU4o)))
+
+(ROOT
+  (FRAG (HT #Mavericks)
+    (ADJP (JJ free)
+      (PP (IN as)
+        (PP (IN per)
+          (NP (DT the) (HT #AppleKeynote.)))))))
+
+(ROOT
+  (FRAG
+    (NP (NN Way))
+    (S
+      (VP (TO to)
+        (VP (VB go!))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (PRP It's))
+      (NP (DT a) (JJ good) (NN day)))
+    (SBAR
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT an) (HT #Apple) (NN user.) (HT #freesoftware))))))
+    (HT #newmacbook)))
+
+(ROOT
+  (S
+    (NP (PRP This))
+    (VP (VBZ is)
+      (SBAR
+        (WHNP (WP what))
+        (S
+          (NP (NNP iOS) (CD 7.0.3))
+          (VP (VBZ brings)
+            (NP (HT #Apple) (HT #iphone))))))
+    (URL http://t.co/mXZOYSG2uJ)))
+
+(ROOT
+  (S
+    (VP (VBZ It's)
+      (ADJP
+        (ADJP (JJ free))
+        (: -)
+        (ADJP (RB whatttttt) (HT #Apple))))
+    (HT #Mavericks)))
+
+(ROOT
+  (S
+    (NP (NNP Triple) (NNP Tablet) (NNP Tuesday.) (HT #apple))
+    (VP (HT #microsoft))
+    (HT #Nokia)))
+
+(ROOT
+  (S
+    (NP (HT #apple))
+    (VP (VBZ launches)
+      (NP (NNP ios) (CD 7.0.3.)))))
+
+(ROOT
+  (S
+    (NP (JJ Many) (NNS bugs))
+    (VP (VBN fixed.))
+    (URL http://t.co/eUfU0moYbh)))
+
+(ROOT
+  (PP
+    (NP (UH Oh))
+    (PP
+      (NP
+        (NP (JJ dear,))
+        (FRAG
+          (INTJ (UH oh))))
+      (PP
+        (NP
+          (NP (JJ dear,))
+          (FRAG
+            (INTJ (UH oh))))
+        (PP
+          (ADVP (JJ dear))
+          (HT #apple.)
+          (NP (URL http://t.co/eZZyvKaJQv)))))))
+
+(ROOT
+  (S
+    (NP (RB Almost) (VBN done!) (HT #Mavericks))
+    (VP (HT #Apple))
+    (URL http://t.co/ke3jUrhQuD)))
+
+(ROOT
+  (S
+    (VP
+      (ADVP (JJ Free)
+        (NP
+          (NP (NN operating) (NN system) (NN update))
+          (PP (IN for)
+            (NP (NNP Mac) (NNP OSX)))))
+      (VB welcome)
+      (NP
+        (NP (NNP Mavericks))
+        (PP (TO to)
+          (NP (DT the) (NN game!)))))))
+
+(ROOT
+  (S
+    (NP (NN Review)
+      (S
+        (VP (TO to)
+          (VP (VB come)
+            (ADVP (RB soon!))))))
+    (VP (HT #mavericks)
+      (VP (HT #apple)))
+    (HT #osx)))
+
+(ROOT
+  (NP
+    (NP (NNP OSX) (NNP Mavericks))
+    (NP
+      (NP (NN installation))
+      (PP (IN in)
+        (NP (NN progress.))))))
+
+(ROOT
+  (S
+    (INTJ (UH T-minus))
+    (VP
+      (ADVP
+        (NP (CD 43) (NNS minutes.))
+        (HT #Apple))
+      (HT #OSXMavericks)
+      (NP (HT #OSX)))
+    (URL http://t.co/1jVNnSLYqv)))
+
+(ROOT
+  (VP
+    (ADVP (RB Terribly))
+    (VBN tempted)
+    (S
+      (VP (TO to)
+        (VP (VB buy)
+          (NP (DT the) (JJ new) (HT #MacBookPro) (HT #AppleAddict)))))))
+
+(ROOT
+  (S
+    (NP (HT #NerdHumor:) (JJ Today's) (HT #Apple) (NN keynote))
+    (ADVP (RB beautifully))
+    (VP (VBN summed)
+      (PRT (RP up))
+      (PP (IN in)
+        (NP
+          (NP (DT a) (NN single) (NNP VINE) (NN video))
+          (PP (IN from)
+            (NP (USR @jmedwards))))))
+    (URL http://t.co/gcA5C7JZbQ)))
+
+(ROOT
+  (FRAG
+    (S
+      (ADVP (RB Just))
+      (VP (VBG downloading)
+        (NP (JJ new) (JJ OS) (NN X) (NNP Mavericks.))))))
+
+(ROOT
+  (S
+    (S
+      (VP (MD Can't)
+        (VP (VB wait)
+          (S
+            (VP (TO to)
+              (VP (VB get)))))))
+    (VP (VBD started)
+      (PP (IN on)
+        (NP (PRP it.)))
+      (HT #Maverics)
+      (ADVP (HT #Mac)))
+    (HT #Apple)))
+
+(ROOT
+  (ADJP (JJ Cool.)))
+
+(ROOT
+  (FRAG
+    (ADVP (RB How)
+      (PP (IN about)
+        (NP (JJ some) (NNP Bluetooth) (NNS earbuds?))))
+    (ADVP (HT #Apple))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP want)
+      (S
+        (VP (TO to)
+          (VP (VB do)
+            (NP (PRP it!))))))))
+
+(ROOT
+  (S
+    (S
+      (ADJP (RB Just) (JJ afraid)
+        (SBAR
+          (S
+            (NP (EX there))
+            (VP (MD will)
+              (VP (VB be)
+                (ADJP (JJ some))
+                (ADVP (RB kind)
+                  (PP (IN of)
+                    (NP (NN issue) (JJ that))))))))))
+    (VP (MD will)
+      (VP (VB keep)
+        (NP (PRP me))
+        (PP (IN from)
+          (S
+            (VP (VBG using)
+              (NP (NNP FCP-7.) (HT #IWontUseFCPX)))))))
+    (HT #Apple)))
+
+(ROOT
+  (ADVP (RB yep!)))
+
+(ROOT
+  (S
+    (VP (VB Available)
+      (ADVP (RB now!))
+      (PP (HT #mavericks)
+        (NP (HT #osx))))
+    (HT #apple)))
+
+(ROOT
+  (FRAG
+    (NP (PRP$ My) (NN ass))
+    (S
+      (VP (VBG getting)
+        (NP (JJR bigger))
+        (PP (IN from)
+          (NP
+            (NP (NN Piloxing) (NN class))
+            (PP (HT #winning)
+              (NP (HT #applebottom) (CD .)))))))))
+
+(ROOT
+  (SINV
+    (VP (VBZ Running))
+    (NP (HT #mavericks) (HT #apple))))
+
+(ROOT
+  (SINV (HT #Healthcare)
+    (NP (HT #Job) (NN alert:) (NNP Ultrasound) (NN Technologist) (NNP II,) (NNP Imaging))
+    (NP
+      (NP (CD S.))
+      (UN |)
+      (NP
+        (NP (NNP St.) (NNP Joseph's) (NNP Health) (UN |))
+        (PP (HT #AppleValley)
+          (NP (CD ,) (NNP CA) (URL http://t.co/7vTRYN4vwJ)))))))
+
+(ROOT
+  (SINV
+    (VP (USR @courtneeypaaige:)
+      (NP
+        (NP (PRP$ My) (NN IPhone) (NN battery))
+        (VP
+          (ADVP (RB just))
+          (VBN jumped)
+          (PP (TO to)
+            (NP
+              (QP (CD 1%) (TO to) (CD 28))
+              (NN %))))))
+    (NP (CD .))))
+
+(ROOT
+  (SINV
+    (VP (VBZ Seems))
+    (NP (NN logic.))))
+
+(ROOT
+  (S
+    (NP (HT #apple) (NNS products))
+    (VP (VBP are)
+      (VP (VBG amazing)
+        (PP (IN like)
+          (NP (NN that.)))))))
+
+(ROOT
+  (SBARQ
+    (WHNP (HT #Locked))
+    (SQ (HT #Out)
+      (NP
+        (NP (HT #Bitch) (HT #Apple))
+        (PP (HT #ScreenShot)
+          (NP (USR @) (NNP Kotehena)))))
+    (URL http://t.co/X9bxzh7ZY0)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (PRP$ its))
+        (PP (IN over)
+          (NP
+            (NP (DT the) (NN past) (JJ cupel))
+            (PP (IN of)
+              (NP (NN weeks,))))))
+      (VP (VB wasnt)
+        (S
+          (ADJP (JJ sure))
+          (NP (PRP it)))))
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADVP (RB network))
+      (ADVP (IN problem)
+        (CC or)
+        (IN if))
+      (ADJP (HT #iphoneProblems) (JJ happen))
+      (PP (IN about)
+        (NP
+          (NP (DT the) (JJ same) (NN time))
+          (PP (IN as)
+            (NP (NN update))))))
+    (HT #Apple)))
+
+(ROOT
+  (S
+    (NP (HT #apple))
+    (VP (HT #tagsforlikes)
+      (VP (HT #teamfslcback)
+        (NP (HT #fslcback) (HT #follows))))
+    (URL http://t.co/1qVHxOF9dD)))
+
+(ROOT
+  (FRAG
+    (NP (DT A) (NN free) (NN upgrade))
+    (S
+      (VP (TO to)
+        (VP (VB OS)
+          (NP (NNP X) (NNP Mavericks.)))))))
+
+(ROOT
+  (SINV
+    (VP (VBZ Thanks))
+    (NP (NN apple.) (HT #OSXMavericks) (HT #Apple))))
+
+(ROOT
+  (FRAG (HT #apple)
+    (ADVP (RB just))
+    (SBAR (IN blown)
+      (S
+        (NP (PRP$ my))
+        (VP (VB mind)
+          (ADJP (JJ off!)))))))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (JJ OS) (NNP X) (NNP Mavericks))
+      (ADVP (RB now)))
+    (ADJP (JJ available)
+      (PP (IN for)
+        (ADJP (JJ free.))))))
+
+(ROOT
+  (NP (JJ Yeeaah!!) (HT #Apple)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Waiting)
+        (PP (IN for)
+          (NP (NNP Maverick)))
+        (S
+          (VP (TO to)
+            (VP (VB install.))))))
+    (HT #excited)
+    (NP (HT #apple))
+    (VP (USR @)
+      (NP
+        (NP (NNP CSE))
+        (VP (VBG Building))))
+    (URL http://t.co/e7Ai3VAqW7)))
+
+(ROOT
+  (VP (VBN highlighted)
+    (PP (HT #Apple's)
+      (NP (JJ core) (NN strength:) (NN Direction.)))))
+
+(ROOT
+  (S
+    (NP (JJ Today's))
+    (VP (HT #AppleEvent)
+      (ADVP (RB again))
+      (VP (VBN displayed)
+        (S
+          (NP (RB that) (PRP they))
+          (VP (VB have)
+            (S
+              (NP (DT the) (NN product) (NN unity))
+              (VP (TO to)
+                (VP (VB get)
+                  (NP (NN there.)))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (VBG Finishing) (NNP Mavericks) (NN install))
+      (PP (IN at)
+        (NP (NN work.))))
+    (VP (HT #OSX))
+    (HT #Apple)))
+
+(ROOT
+  (INTJ (UH Ooooooooh.)))
+
+(ROOT
+  (S
+    (NP (NN OSX) (NNP Mavericks))
+    (VP (VBZ looks)
+      (NP
+        (NP (JJ good) (HT #apple))
+        (PP (HT #OSX)
+          (NP (HT #mavericks) (HT #macbook)))))
+    (HT #mac)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Go)
+        (VP (VB get)
+          (NP (PRP$ your) (NN upgrade)))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ FREEEE))
+        (HT #free)
+        (SBAR (HT #miami)
+          (S
+            (NP (HT #macrepair))
+            (VP (HT #repair)
+              (VP (HT #apple)
+                (NP
+                  (NP (HT #osx) (HT #mac) (HT #upgrade))
+                  (PP (HT #OS)
+                    (NP (NNP X) (HT #Mavericks))))))))
+        (: -)))
+    (URL https://t.co/jsdUktFMhk)))
+
+(ROOT
+  (NP
+    (NP (JJ First) (NN tweet))
+    (PP (IN from)
+      (NP (PRP me)))
+    (PP (IN on)
+      (NP (JJ OS) (NN X) (NNP Mavericks) (HT #osx)))
+    (HT #apple)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB now))
+    (VP (VBP have)
+      (NP
+        (NP (JJ OS) (NNP X))
+        (ADVP (RB Maverick's))))
+    (HT #Apple)))
+
+(ROOT
+  (ADJP (JJ Boring.)))
+
+(ROOT
+  (S
+    (ADVP (HT #apple))
+    (HT #macbook)
+    (NP (HT #macos) (HT #osx))
+    (VP (HT #mavericks)
+      (VP (USR @)
+        (S
+          (NP (NNP Yuri) (NNP Rusakov's))
+          (ADJP (JJ Residence)))))
+    (URL http://t.co/yWYqhgX44F)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (PP (IN like)
+        (NP (DT a) (NN holiday)))
+      (PP (IN for)
+        (S
+          (NP (PRP me,))
+          (VP
+            (VP (VBG watching)
+              (NP (DT the) (HT #Apple) (NN keynote) (NN event)))
+            (CC and)
+            (VP (VBG downloading)
+              (NP (NNS updates.)))))))))
+
+(ROOT
+  (SINV
+    (VP (VBP This)
+      (SBAR
+        (S
+          (VP (VBZ is)
+            (ADJP
+              (ADJP (JJR bigger))
+              (PP (TO to)))))))
+    (NP (PRP me))
+    (PP (IN than)
+      (NP (NN Christmas.)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB now))
+    (VP (VBP have)
+      (NP (JJ OS) (NNP X) (NNP Mavericks) (HT #Apple)))
+    (HT #OSXMavericks)))
+
+(ROOT
+  (S
+    (VP (VB Come)
+      (PP (TO to)
+        (NP (NN papa.))))))
+
+(ROOT
+  (SBARQ
+    (WHNP (HT #apple) (HT #mavericks))
+    (SQ (HT #osx)
+      (NP (USR @) (NNP Woofound)))
+    (URL http://t.co/6NHfzzfWh9)))
+

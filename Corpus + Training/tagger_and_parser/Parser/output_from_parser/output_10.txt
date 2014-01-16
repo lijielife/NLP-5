@@ -1,0 +1,786 @@
+(ROOT
+  (FRAG
+    (ADVP (IN At)
+      (PP (NNP Pluit)
+        (NP
+          (NP (NNP Sakti) (NNP Hawker) (NNP Food) (NNP Centre))
+          (PP (URL https://t.co/h2Bvv6aIes)))))))
+
+(ROOT
+  (FRAG
+    (NP (JJ Good) (NN morning!))))
+
+(ROOT
+  (S
+    (ADVP (RB Somehow))
+    (VP (PRP I) (VBP know.))))
+
+(ROOT
+  (S
+    (NP (MB I'll))
+    (VP (VBP see)
+      (NP (PRP you)
+        (PP (RB again)
+          (NP (NN someday)))))))
+
+(ROOT
+  (S
+    (WHADVP (MD Can))
+    (NP
+      (NP (PRP I) (VBP hit))
+      (NP
+        (NP (PRP it))
+        (PP (IN in)
+          (NP (DT the) (NN morning?)))))))
+
+(ROOT
+  (NP
+    (NP (VB follow))
+    (PP (PRP me)
+      (NP (NN back)))))
+
+(ROOT
+  (NP
+    (NP (JJ Same))
+    (PP (IN here.))))
+
+(ROOT
+  (S
+    (VP
+      (NP (DT The) (NN past))
+      (NP
+        (NP (VBN cannot))
+        (VP (VB be))))
+    (NP (JJ changed.))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN future))
+    (VP (VBZ is)
+      (NP
+        (NP (RB yet))
+        (VP (IN in)
+          (NP (PRP$ your) (NN power.)))))))
+
+(ROOT
+  (S
+    (VP (VBZ Send)
+      (PP (PR me)
+        (NP (PRP$ your) (NN address) (NN por))))
+    (NP (NN favor))))
+
+(ROOT
+  (S
+    (VP (VBP are)
+      (NP
+        (NP (PRP you))
+        (VP (VBG going)))
+      (PP (IN tomorrow)
+        (S
+          (VP
+            (WHADVP (RB too?))))))))
+
+(ROOT
+  (S
+    (PP (IN When)
+      (NP
+        (NP
+          (NP (PRP you))
+          (SBAR
+            (S
+              (VP (VBP wake)
+                (NP
+                  (NP (RP up))
+                  (PP (RB so)
+                    (NP (JJ tired))))
+                (PP (PRP$ your)
+                  (NP (NNS eyes)))))))
+        (NP (JJ hurt.))))))
+
+(ROOT
+  (S
+    (NP (VBZ That's)
+      (NP (PRP$ my) (NN life)))
+    (VP (RB right)
+      (NP (NN now.)))))
+
+(ROOT
+  (FRAG
+    (NP (CD 50%) (NN chance))
+    (PP (IN of)
+      (NP (NN snow) (NN tonight?)))))
+
+(ROOT
+  (FRAG (UH Lol)))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP cannot)
+      (VP (VB have)
+        (NP
+          (NP (JJ more))
+          (PP (IN than)
+            (NP (CD one) (NN name))))))
+    (FRAG
+      (ADVP (IN on)
+        (PP (PRP$ your)
+          (NP (NN profile.)))))))
+
+(ROOT
+  (FRAG
+    (NP (JJ NAME:) (NN ms_davido,))
+    (NP
+      (NP (RB then))
+      (PP (IN on)
+        (NP
+          (NP (PRP$ your) (NN bio))
+          (PP (: -)))))
+    (HT #TeamWizkid) (HT #TeamVector.)))
+
+(ROOT
+  (S
+    (VP (VB Find)
+      (NP (DT a) (NN balance) (NN girl)))))
+
+(ROOT
+  (NP
+    (NP (NNP Jeff's))
+    (NP (DT a) (JJ good) (NN lad.))))
+
+(ROOT
+  (NP (JJ Many)
+    (NP (DT an) (NN event)
+      (VP (IN at)
+        (NP (DT the) (JJ hard) (NN rock.))))))
+
+(ROOT
+  (S
+    (VP (VBZ Say)
+      (NP (NN word,))
+      (VP (VB grind)
+        (PP (IN like)
+          (S
+            (VP (VBZ there's)
+              (ADJP (JJ no)))))))
+    (NP (NN tomorrow!))))
+
+(ROOT
+  (S
+    (VP (VBZ does)
+      (NP (DT the) (NN cabbage) (NN patch))
+      (PP (VBZ does)
+        (PP (DT the)
+          (NP
+            (NP (VBG running))
+            (SBAR
+              (S
+                (VP (NN man)
+                  (NP (UH lolol)))))))))))
+
+(ROOT
+  (NP
+    (NP (RB Too))
+    (NP
+      (NP
+        (NP
+          (NP
+            (NP (JJ busy))
+            (PP (VBG showing)
+              (NP
+                (NP
+                  (ADJP (USR @slkav) (WRB how))
+                  (TO to) (VB use))
+                (SBAR
+                  (S
+                    (NP (USR @three20)))))))
+          (PP (: -)))
+        (PP (MD will)
+          (NP (VB do))))
+      (PP (IN though!)))))
+
+(ROOT
+  (S
+    (NP (NN nothing))
+    (VP (RB really)
+      (PP (VBZ hurts)
+        (PP (PRP me)
+          (NP (JJ more)))))
+    (PP (IN than)
+      (NP
+        (NP (VBG being))
+        (VP (VBN told)
+          (NP
+            (NP (PRP I))
+            (VP (VBD disappointed)
+              (NP (NN someone.)))))))))
+
+(ROOT
+  (S
+    (VP (VB give)
+      (NP (DT a) (JJ little) (NN gain)))
+    (NP (DT a) (JJ little))))
+
+(ROOT
+  (S
+    (NP (PRP I) (VBP love)
+      (VP (VBG being)))
+    (VP (VB able)
+      (VP (TO to) (VB wear)
+        (NP
+          (NP (PRP$ my) (NN uggs))
+          (VP (CC and)
+            (NP
+              (NP (JJ north) (NN face))
+              (PP (RB again)))))))))
+
+(ROOT
+  (S
+    (S
+      (VP (RB so) (JJ EXCITED!) (IN With)
+        (NP (PRP$ your) (NN book))))
+    (VP (VB beb)
+      (NP (PRP$ its)
+        (NP
+          (ADJP (RB so) (JJ wonderful))
+          (NN iloveyou) (NN proud))))
+    (SBAR (IN of)
+      (S
+        (VP (PRP you) (VBP muah))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD was)
+      (NP
+        (NP (VBG Lying))
+        (PP (CD .))))))
+
+(ROOT
+  (S
+    (NP (PRP it's))
+    (PP (IN in)
+      (NP (DT a) (NN laundromat.)))
+    (NP (HT #knowyourplace))))
+
+(ROOT
+  (S
+    (ADVP (RB So))
+    (VP (VBP I'm)
+      (NP
+        (NP (VBG gonna))
+        (VP (VB get)
+          (NP (DT a) (NN piercing))))
+      (PP (IN either)
+        (NP (NN eyebrow))
+        (VP (NN nose)
+          (NP
+            (NP (CC or))
+            (VP (NNS snakebites) (RB again.))))))))
+
+(ROOT
+  (S
+    (NP (NN Someone))
+    (VP (VB help)
+      (NP
+        (NP (PRP me))
+        (VP (VB decide.))))))
+
+(ROOT
+  (NP
+    (NP (VB Hate))
+    (NP
+      (NP
+        (NP (NN everyone)
+          (PP (IN in)
+            (NP (PRP$ my) (NN science) (NN class))))
+        (PP (RB so)
+          (NP (JJ much))))
+      (PP (RB except)
+        (NP (NNP Matt))))))
+
+(ROOT
+  (NP
+    (NP (VB Hate))
+    (PP (PRP you)
+      (NP (NN boyy)))))
+
+(ROOT
+  (S
+    (WHADVP (MD Can))
+    (VP (PRP I)
+      (NP
+        (NP (RB just))
+        (VP (VB be)
+          (NP (NN cat)))
+        (VP (CC and)
+          (NP
+            (NP
+              (NP
+                (NP
+                  (NP (VB snuggle))
+                  (PP (IN inside)))
+                (PP (DT a)
+                  (NP (JJ bunch))))
+              (PP (IN of)
+                (NP (NNS blankets)))
+              (NP (CC and)))
+            (VP (VB lay)
+              (NP (EX there))))))
+      (PP (RB comfortably)
+        (PP (IN for)
+          (NP
+            (NP (JJ long))
+            (SBAR
+              (S
+                (NP (NN time?))))))))))
+
+(ROOT
+  (S
+    (NP (JJ mad))
+    (VP (DT that)
+      (NP (UH haha)))))
+
+(ROOT
+  (S
+    (PP (IN If)
+      (NP
+        (NP (PRP you))
+        (VP (VBD were)
+          (NP
+            (NP (VBG trying))
+            (VP (TO to) (VB say))
+            (VP (NN 'syukur',)
+              (WHADVP (RB pls))
+              (VP (VB write)
+                (NP (PRP it)
+                  (PP (RB properly)
+                    (NP
+                      (NP (PRP you) (VBP don't))
+                      (VP (VB have)
+                        (NP (TO to) (VB be) (JJ that))))))))))))
+    (ADVP (RB kind)
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (JJ retarded))
+            (PP (IN yg)
+              (NP (NNS tulis))))
+          (SBAR
+            (S
+              (VP (VBP 'bercukur)
+                (NP (NN kpd) (NN Tuhan'.))))))))))
+
+(ROOT
+  (FRAG
+    (NP (JJ Whatt?))))
+
+(ROOT
+  (S
+    (VP
+      (NP (WRB how) (JJ much) (JJR longer))
+      (NP
+        (NP (PRP yu))
+        (VP (VBP have?))))))
+
+(ROOT
+  (S
+    (VP
+      (WHADVP (WRB Why))
+      (VP (VB did)
+        (NP
+          (NP (PRP I) (VBP dream))
+          (PP (IN of)
+            (NP (PRP you))))))
+    (NP (JJ last) (NN night.))))
+
+(ROOT
+  (NP
+    (NP (VBP I'm))
+    (PP (IN out))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (JJ Spot))
+      (PP (JJ favorite)
+        (NP (JJ nih) (NN sc) (NN sama))))
+    (NP
+      (NP (NN mati)
+        (PP (IN with)
+          (NP
+            (NP (NNP Yogi,) (NNP Hendi,))
+            (VP
+              (NP
+                (NP (CC and))
+                (PP (CD 2)
+                  (NP (NN others))))
+              (NP (UH [pic]))))))
+      (PP (URL https://t.co/b2ELQzVpH6)))))
+
+(ROOT
+  (S
+    (NP (NN profile)
+      (S
+        (NP (NN pic))))
+    (VP (MD would)
+      (VP (RB help.)))))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VB know)
+      (NP
+        (NP
+          (NP (PRP you))
+          (SBAR
+            (S
+              (VP (RB but)
+                (PP (PRP$ your)
+                  (NP (NNS chuckles)))))))
+        (VP (VBP are))))
+    (VBD appreciated.)))
+
+(ROOT
+  (S
+    (VP (VB Enjoy)
+      (NP (NN twitter.)))))
+
+(ROOT
+  (S
+    (NP (NN Safety))
+    (PP (IN in)
+      (NP (NNS numbers)))))
+
+(ROOT
+  (S
+    (VP
+      (PP (PRP$ My)
+        (NP (NNS choices)
+          (PP (IN of)
+            (NP
+              (NP (NNP Halloween) (NNS outfits))
+              (PP (VBZ are:)
+                (NP (NN swat,)))))))
+      (NP (NN kitty) (NN cat,)))
+    (NP (NN devil)
+      (S
+        (NP (CC or))
+        (VP (RB just) (JJ slutty) (IN for)
+          (NP (DT the) (NN hell)))))
+    (PP (IN of)
+      (NP (PRP it.)))))
+
+(ROOT
+  (S
+    (VP (RB So)
+      (ADJP (MB imma))
+      (VP (VB be)
+        (NP
+          (NP (VBG tweeting))
+          (PP (DT a)
+            (NP (NNP lot.))))))))
+
+(ROOT
+  (S
+    (PP (UH hahaha)
+      (NP
+        (NP (NNP Azriel))
+        (SBAR
+          (S
+            (NP (WRB why)
+              (VP
+                (NP
+                  (NP
+                    (PP (MD would)
+                      (NP
+                        (NP (PRP I) (VBP do))
+                        (NP (NN that)
+                          (PP (UH haha,)
+                            (NP (VBP you're))))))
+                    (PP (RB too)
+                      (NP (JJ cute))))
+                  (PP (IN for)
+                    (NP (DT that))))
+                (NP (UH laa))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP
+          (NP (DT The) (NNP Fall:))
+          (PP (DT The)
+            (NP (NN time) (IN of) (DT the) (NN year))))
+        (PP (DT the)
+          (NP (NNS leaves)
+            (PP (VBZ change)
+              (NP (NN color))))))
+      (VP (CC and)
+        (NP (PRP it))))
+    (VP (VBZ starts)
+      (NP (TO to) (VB get) (JJ COLD.)))))
+
+(ROOT
+  (S
+    (ADVP (RB Yet))
+    (S
+      (NP (NN everyone)
+        (S
+          (NP (VBZ is)
+            (NP (VBN shocked)))
+          (VP
+            (WHADVP (WRB when))
+            (NP (DT this)))))
+      (VP (VBZ happens)
+        (NP (HT #smh))))))
+
+(ROOT
+  (S
+    (PP (UH oh)
+      (NP (NNP oky2)))))
+
+(ROOT
+  (FRAG
+    (NP (NN Anyone)
+      (VP (VB know)
+        (NP
+          (NP
+            (ADJP (IN of) (DT a))
+            (NN part) (NN time))
+          (VP
+            (NP (NN job)
+              (ADVP (IN in)
+                (NP (NNP denton))))
+            (NP (TO to) (VB work))))))
+    (PP (DT a)
+      (NP
+        (NP (JJ few) (NNS hours))
+        (SBAR
+          (S
+            (NP (JJ every) (NN night?))))))))
+
+(ROOT
+  (S
+    (VP (UH lol))
+    (NP (PRP it))
+    (VP (RB just)
+      (NP
+        (NP
+          (ADJP (VBZ feels) (JJ weird))
+          (TO to) (VB have))
+        (PP (CD one)
+          (NP (NN sheet)))))))
+
+(ROOT
+  (S
+    (S
+      (VP (VBP Get)))
+    (VP (JJ all)
+      (NP (DT the) (NN way))
+      (PP (TO to)
+        (NP
+          (NP (NNP Hawkeye)
+            (CC and))
+          (SBAR
+            (S
+              (NP (USR @seherzaduhh))
+              (VP (VBZ is)
+                (ADJP (JJ all))))))))
+    (SBAR (IN like)
+      (S
+        (VP (VBP "I'm)
+          (NP
+            (NP (JJ not))
+            (VP (VBG going)))
+          (PP (TO to)
+            (NP (NN class."))))))))
+
+(ROOT
+  (S
+    (VP (VBG going)
+      (NP (NN home)))
+    (NP (HT #snowday))))
+
+(ROOT
+  (FRAG
+    (NP (JJ Hopeless))))
+
+(ROOT
+  (S
+    (NP
+      (NP (VBP Damn))
+      (VP (VB let)
+        (NP (PRP me))))
+    (VP (VB send)
+      (PP (PRP$ your)
+        (NP (JJ good) (NN morning) (NN text))))
+    (FRAG
+      (ADVP (IN before)
+        (PP (PRP$ your)
+          (NP
+            (NP (VB start))
+            (VP (VBG tweeting.))))))))
+
+(ROOT
+  (S
+    (VP (NNP Jemedud)
+      (NP (UH [pic])))
+    (NP (URL https://t.co/T8z6LpXQig))))
+
+(ROOT
+  (NP
+    (NP (NNP Football))
+    (NP (NNP &gt;) (NNP LifepBkDV7TfBH))))
+
+(ROOT
+  (S
+    (NP (NNP "@DancingAndre:))
+    (PP (JJ One)
+      (NP (NN choice)))
+    (VP (MD can) (VB transform)
+      (NP (PRP you)))
+    (HT #Divergent")))
+
+(ROOT
+  (S
+    (VP (DT A)
+      (NP
+        (NP
+          (NP (JJ beautiful) (NN appearance))
+          (PP (MD will)
+            (NP
+              (QP (RB eventually) (VB age))
+              (CC and)))
+          (NP (VB die)))
+        (VP (CC but)
+          (NP (DT a) (JJ beautiful) (NN heart)))))
+    (NP (VBZ lives)
+      (NP (RB forever.)))))
+
+(ROOT
+  (S
+    (VP (JJ Good)
+      (NP (NN luck))
+      (PP (NNS guys)
+        (NP
+          (NP
+            (NP (USR @yasanandas))
+            (FRAG
+              (NP (USR @irennoviyanti))
+              (NP (USR @auliahimmah))))
+          (SBAR
+            (S
+              (NP (USR @BoyJunior006)))))))
+    (NP (USR @talitaRhmn))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (VBN Disappointed))
+      (PP (IN in)))
+    (NP (JJ some) (NN media.))))
+
+(ROOT
+  (S
+    (VP (RB Even)
+      (NP
+        (NP (JJ after) (NN yyc))
+        (VP (VBD spoke)
+          (NP
+            (NP (PRP they) (VBP are))
+            (ADVP (RB still))
+            (VP (VBG attacking))))))
+    (NP (USR @nenshi.))))
+
+(ROOT
+  (S
+    (VP (VB Guess)
+      (NP
+        (NP (PRP we) (VBP need))
+        (VP (HT #unsportsmanlike)
+          (NP (NNS penalties))))
+      (PP (IN for)
+        (NP (NN media.))))))
+
+(ROOT
+  (S
+    (PP (IN Inside)
+      (NP
+        (NP
+          (NP (NNP Llewyn) (NNP Davis))
+          (PP (: -)))
+        (VP
+          (WHADVP (JJ One))
+          (VP (JJ More)
+            (SBAR
+              (WHADVP (NN Show))
+              (FRAG
+                (NP (HT #Pleej))))))))))
+
+(ROOT
+  (S
+    (NP (NNP Halloween))
+    (VP (VBZ is)
+      (NP
+        (NP (VBG going))
+        (VP
+          (NP (TO to) (VB be))
+          (NP (DT a) (JJ longgggg) (NN day)))))))
+
+(ROOT
+  (S
+    (VP (NN BEAUTY)
+      (NP (NNS TITS)))))
+
+(ROOT
+  (S
+    (NP (PRP I) (VBP cant)
+      (VP (VB keep)
+        (NP (PRP$ my) (NNS hands) (IN off) (PRP you,))))
+    (VP
+      (PP (PRP$ your)
+        (NP (VBZ bodys)))
+      (NP (PRP$ my) (NN party.)))))
+
+(ROOT
+  (S
+    (PP (IN At)
+      (NP
+        (NP (USR @cinema21))
+        (SBAR
+          (S
+            (VP
+              (NP (UH [pic]))
+              (PP (URL https://t.co/K4EmCip0Jl)))))))))
+
+(ROOT
+  (NP
+    (NP (WP what) (VBZ is))
+    (NP (PRP it?))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP must) (VB see))))
+
+(ROOT
+  (S
+    (NP (PRP We) (RB FINALLY))
+    (VP (VBP have)
+      (NP (DT a) (NN move) (NN date.)))))
+
+(ROOT
+  (S
+    (ADVP (IN Around)
+      (PP (NNP November)
+        (NP (CD 15th))))
+    (VP
+      (NP (PRP we)
+        (PP (MD can)
+          (NP (NN move)
+            (ADVP (IN into)
+              (PP (PRP$ our)
+                (NP (JJ new)))))))
+      (NP (NN house.)))))
+

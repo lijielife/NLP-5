@@ -1,0 +1,1149 @@
+(ROOT
+  (S
+    (VP
+      (NP (HT #brandnew))
+      (NP (HT #apple)))
+    (NP (HT #macosx))
+    (VP (HT #mavericks)
+      (NP
+        (NP (USR @))
+        (NP (NN Home)
+          (PP (IN On)
+            (NP (NNP Air)))))
+      (PP (URL http://t.co/UfjCRvuVlR)))))
+
+(ROOT
+  (S
+    (VP
+      (NP (HT #osxmacricks))
+      (NP (HT #applerocks)))
+    (NP (HT #excited))
+    (VP (HT #pcsucks)
+      (NP
+        (NP (USR @))
+        (NP (NNP Batcave)))
+      (PP (URL http://t.co/yOEIErGuf2)))))
+
+(ROOT
+  (S
+    (VP (VBP Want)
+      (NP (DT a) (NN mini.)))
+    (NP (HT #apple))))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Just))
+      (VP (VBN picked)
+        (NP
+          (NP (RP up))
+          (VP
+            (NP
+              (NP
+                (NP (PRP$ my) (NNP iPhone))
+                (PP (CD 4)))
+              (VP (CC and)
+                (NP
+                  (NP (PRP it))
+                  (VP (VBZ feels) (IN like)))))
+            (NP (DT a) (JJ tiny) (NN brick))))))
+    (VP (RB now)
+      (NP
+        (NP (VBG having))
+        (VP (VBD used)
+          (NP
+            (NP
+              (NP (PRP$ my) (NNP 5S))
+              (PP (IN for)
+                (NP (DT a) (NN week))))
+            (VP (HT #gadgetsnob)
+              (NP (HT #apple)))))))))
+
+(ROOT
+  (NP
+    (NP (PRP$ My) (HT #Mavericks))
+    (NP (NN install)
+      (PP (VBZ has)
+        (NP
+          (NP (VBN been))
+          (FRAG
+            (NP
+              (NP (JJ stuck))
+              (PP (IN on)
+                (NP (JJ 'Less))))
+            (PP (IN than)
+              (NP (CD one) (NN minute')
+                (PP (IN for))))
+            (PP (IN about) (NN half))))))
+    (NP (DT an) (NN hour.)
+      (VP (HT #apple)
+        (NP (HT #help))))))
+
+(ROOT
+  (S
+    (VP (VBG Running))
+    (NP (DT the)
+      (PP (JJ new)
+        (NP
+          (QP (HT #osxmavericks) (HT #applenerd)))))))
+
+(ROOT
+  (S
+    (ADVP (RB How))
+    (VP (VB do)
+      (NP
+        (NP (PRP I))
+        (VP (VB get)
+          (NP
+            (NP (DT the) (JJ new)
+              (NP (NNP iWorks)))
+            (VP (CC and)
+              (NP
+                (NP (NNP iLife) (NNS apps))
+                (PP (IN on)
+                  (NP
+                    (NP (DT an) (JJ existing)
+                      (NP (NNP iMac)))
+                    (SBAR
+                      (S
+                        (NP (CC or)
+                          (NNP iOS))
+                        (VP (NN device?)
+                          (NP (HT #apple)))))))))))))))
+
+(ROOT
+  (S
+    (VP (RB STILL) (VBG waiting))
+    (NP (IN in) (NN line)
+      (PP (IN for)))
+    (VP (HT #Apple)
+      (NP (NNP iPhone) (NNP 5s.))
+      (PP (URL http://t.co/t9fNg2i7fx)))))
+
+(ROOT
+  (S
+    (NP (HT #mavericks))
+    (VP
+      (NP (HT #apple))
+      (NP (HT #upgrading)))
+    (S
+      (NP (HT #mac))
+      (VP (HT #vamx)
+        (NP
+          (NP (USR @))
+          (NP (NNP VMX)))
+        (PP (URL http://t.co/tswbk9hDYt))))))
+
+(ROOT
+  (FRAG
+    (NP (UH Oh) (HT #apple))
+    (NP (NN fan)
+      (VP (IN out)
+        (NP (NN there.))))))
+
+(ROOT
+  (S
+    (NP (JJ New))
+    (VP (HT #ios)
+      (NP
+        (NP (NN version)
+          (PP (VBZ is)
+            (NP
+              (NP (RP out.))
+              (SBAR
+                (S
+                  (NP (USR @)))))))
+        (PP (NNP Concepcion,)
+          (NP (NNP Marikina) (NNP City))))
+      (PP (URL http://t.co/vNfADKnDzI)))))
+
+(ROOT
+  (S
+    (VP (VB Energize)
+      (NP
+        (NP (CC and))
+        (VP (VB engage)
+          (NP
+            (NP
+              (NP
+                (NP
+                  (NP (JJ local) (NNS fans))
+                  (PP (IN around)
+                    (NP (PRP you))))
+                (PP (IN for)))
+              (PP (JJ free)
+                (NP
+                  (QP (URL https://t.co/jYP21ko732) (HT #Apple))
+                  (HT #Winning))))
+            (VP (HT #LoveLocal)
+              (NP (HT #SMB)))))))))
+
+(ROOT
+  (S
+    (VP (UH Sheesh,)
+      (NP
+        (NP (NNP Mavericks))
+        (VP (VBZ is)
+          (NP (DT a) (JJ huge) (NN download.)))))
+    (NP (HT #apple))))
+
+(ROOT
+  (FRAG
+    (VP (VB Reply)
+      (PP (IN DM)
+        (NP (VB cas))))))
+
+(ROOT
+  (S
+    (NP (PRP I) (RB really))
+    (VP (VBP want)
+      (VP (TO to)
+        (NP
+          (NP
+            (NP (VB sneak))
+            (PP (IN into)
+              (NP (PRP$ my) (NN dads) (NN house)))
+            (NP (CC and)))
+          (PP (NNP raid)
+            (NP (PRP his))))
+        (ADVP (RB kitchen))))
+    (HT #starving)))
+
+(ROOT
+  (S
+    (VP (VBP I'm)
+      (NP
+        (NP
+          (NP (RB already))
+          (PP (IN frozen)))
+        (VP (CC and)
+          (NP (PRP I) (VBD haven't)))))
+    (NP (VBN stepped)
+      (NP (RB outside)))
+    (VP (RB yet)
+      (NP (HT #gonnabearoughday)))))
+
+(ROOT
+  (S
+    (NP (WRB Why)
+      (VP (VB do)
+        (NP (NN people) (NN think))))
+    (VP (VBP I'm)
+      (VP (RB so)
+        (ADJP (JJ judgmental))
+        (VP (. ?))))))
+
+(ROOT
+  (NP
+    (NP (RB Panic))
+    (PP (IN at)
+      (NP (DT the) (NN disco)))))
+
+(ROOT
+  (S
+    (NP (USR @therealsellygh))
+    (VP (VB keep)
+      (NP
+        (NP (VBG crossing))
+        (PP (IN with)
+          (NP
+            (NP (PRP me))
+            (SBAR
+              (S
+                (NP (PRP it))
+                (VP (MD will)
+                  (VP (RB happen)
+                    (ADVP (RB maybe))
+                    (PP (IN in)
+                      (NP (CD 2)))))))))))
+    (S
+      (NP (NNS years) (IN frm))
+      (VP (RB now)
+        (NP (HT #winks))))))
+
+(ROOT
+  (S
+    (ADVP (RB Put)
+      (PP (PRP$ my)
+        (NP (NN hustle) (IN in) (DT this) (NN game,))))
+    (VP
+      (NP (PRP$ my) (NN family))
+      (NP
+        (NP (JJ first,))
+        (VP (CC and)
+          (NP
+            (NP (PRP$ my) (NN faith))
+            (PP (IN in)
+              (NP (NNP God.)))))))))
+
+(ROOT
+  (FRAG
+    (ADVP (IN At)
+      (PP (NNP Karita)
+        (NP
+          (NP (NNP Moslem) (NNP Square))
+          (PP (URL https://t.co/KLkEz3mN0l)))))))
+
+(ROOT
+  (NP
+    (NP (PRP I) (VBP like))
+    (NP (PRP$ your) (NN beard))))
+
+(ROOT
+  (FRAG
+    (VP (RB excactly7))))
+
+(ROOT
+  (S
+    (S
+      (VP (VB WAKE)
+        (NP (NNP UP) (NNP MFS))))
+    (VP (VBZ ITS)
+      (ADJP (JJ NICE)))
+    (SBAR (IN AZ)
+      (S
+        (NP (UH HEOOO) (NN OUTSIDE))))))
+
+(ROOT
+  (S
+    (VP (CD DUMB.) (VB GRAB))
+    (NP (PRP IT!))))
+
+(ROOT
+  (S
+    (VP (VB Bout)
+      (NP (TO to) (VB hit)))
+    (NP (JJ this) (NN track))))
+
+(ROOT
+  (S
+    (VP (VBD Got)
+      (NP (DT a) (NN phone)))
+    (NP
+      (NP
+        (NP (NN interview)
+          (PP (IN with)
+            (NP (NN next))))
+        (PP (IN at)
+          (NP (NN half))))
+      (PP (CD 3!)))))
+
+(ROOT
+  (S
+    (VP (RB Hopefully)
+      (NP (DT a) (JJ lucky) (NN break)))))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (PRP I) (VBP kow))
+      (PP (PRP it)
+        (NP (JJ chilly))))
+    (NP
+      (NP (NN outside)
+        (PP (RB but)
+          (NP
+            (NP (PRP I) (VBP didn't))
+            (VP (VB know)
+              (NP
+                (NP (PRP I))
+                (VP (VBZ had)
+                  (VP (TO to) (VB wear)
+                    (NP (DT a) (NN winter) (NN coat)))))))))
+      (PP (IN in)
+        (NP (NN school!!!))))
+    (HT #concord) (HT #freezing)))
+
+(ROOT
+  (S
+    (NP (UH hey) (NN we))
+    (VP
+      (NP
+        (NP (RB just))
+        (VP (VBD got)
+          (NP (NN school))))
+      (NP (NN spirit) (NN dawg.)))))
+
+(ROOT
+  (S
+    (VP (VBG Goodmorning))))
+
+(ROOT
+  (S
+    (VP (UH Lope)
+      (NP (UH lope) (UH lope)))
+    (NP
+      (NP
+        (PP (IN tooooo)
+          (NP
+            (NP (NNP "@AyoeLoebiss:))
+            (SBAR
+              (S
+                (NP (USR @AnRahmani))
+                (VP (PRP I) (VBP MISS))))))
+        (PP (PRP YOU)
+          (NP (NN AND))))
+      (NP
+        (NP (PRP I) (VBP LOVE))
+        (PP (PRP YOU)
+          (NP (CD ")))))))
+
+(ROOT
+  (S
+    (PP (WDT What)
+      (NP (PRP$ your) (NN name?)))))
+
+(ROOT
+  (NP
+    (NP (PRP$ Ya) (NN alloh.))
+    (PP (RB (with)
+      (NP
+        (NP (NNP Herlina)))
+        (VP (NNS [pic]) (URL https://t.co/QVttYzdfpG))))))
+
+(ROOT
+  (FRAG (RB Pretty)
+    (NP (JJ little) (NN liars) (NN today!))))
+
+(ROOT
+  (NP
+    (NP (VBN Been))
+    (NP
+      (NP
+        (NP
+          (NP (VBG waiting))
+          (PP (IN for)
+            (NP (DT this))))
+        (PP (IN for)))
+      (PP (IN like)
+        (NP (NN ever!))))))
+
+(ROOT
+  (FRAG
+    (NP (NN "Now)
+      (VP (CC or)
+        (NP (NN never"))))))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (VBG Spending))
+      (NP (DT all) (NN lecture)
+        (VP (VBG reading)))
+      (PP (IN ab)
+        (NP
+          (NP (NNP Kimye) (NN he))
+          (VP (VBN killed)
+            (NP (PRP it)
+              (PP (IN with)
+                (NP (DT the) (NN proposal))))))))
+    (VP (UH damnnnnn))))
+
+(ROOT
+  (S
+    (S
+      (VP
+        (NP (NNS Was))))
+    (VP (RB just)
+      (NP (NN told)))
+    (SBAR (IN that)
+      (S
+        (NP (PRP I))
+        (VP (MD could)
+          (VP (VB get)
+            (PP (IN into)
+              (VP (NNP University)
+                (PP (IN of)
+                  (VP (NNP Chicago)
+                    (PP (IN for)
+                      (NP (PRP$ my) (NN masters.)))))))))))))
+
+(ROOT
+  (S
+    (VP (UH OMG)
+      (NP
+        (NP (PRP I) (MD would))
+        (VP (VB love)
+          (NP (NN that....)))))))
+
+(ROOT
+  (NP
+    (NP (JJ Happy) (NN birthday))
+    (NP (USR @cain_hannah!!))))
+
+(ROOT
+  (NP
+    (NP (VB Hope))
+    (NP (PRP you) (VBP have))
+    (NP (DT a) (JJ great) (NN day))))
+
+(ROOT
+  (S
+    (VP
+      (NP
+        (NP (JJ all) (NN foreign))
+        (VP (VBD nationals)
+          (NP
+            (NP (VB who))
+            (VP (VBP don't)))))
+      (NP (NN pay)))
+    (NP (DT the) (NN tax)
+      (PP (IN into)
+        (NP (DT the) (NN system)))
+      (S
+        (NP (TO to)
+          (VP (VB use)
+            (NP
+              (NP
+                (NP (PRP it))
+                (PP (: -)))
+              (PP (RB NHS)))))
+        (VP (MD should) (VB be)
+          (NP (NNS synonymous)))))
+    (PP (IN with)
+      (NP (NNP PDQ?)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (RB Only))
+      (PP (CD one)
+        (NP
+          (NP (JJ more) (NN hour))
+          (VP (IN until)
+            (NP (PRP$ our)
+              (NP (JJ full) (NN programme)))))))
+    (VP (VBZ is)
+      (NP
+        (NP (VBN revealed!))
+        (VP (HT #WIFF2013)
+          (NP (HT #PressConference)))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP want) (TO to)
+      (VP (VB put)
+        (NP (DT a) (NN ring))))
+    (FRAG
+      (ADVP (IN on)
+        (PP (PRP$ your)
+          (NP (NN finger)))))))
+
+(ROOT
+  (S
+    (WHADVP (WRB why))
+    (VP
+      (PP (MD would)
+        (NP
+          (NP (PRP you))
+          (VP (VB retweet))))
+      (NP (NN this?)))))
+
+(ROOT
+  (S
+    (VP
+      (NP (PRP This) (VBD was))
+      (PP (IN like)
+        (PP (DT a)
+          (NP (NN month)
+            (ADVP (RB ago))))))))
+
+(ROOT
+  (S
+    (VP (PRP It)
+      (PP (VBZ is)
+        (VP (RB not)
+          (NP (DT the) (NN position)))))
+    (NP
+      (NP (PRP you) (VBP stand,))
+      (PP (RB but)
+        (NP (DT the) (NN direction))))
+    (PP (IN in)
+      (NP
+        (QP (WDT which) (PRP you))
+        (VBP look.)))))
+
+(ROOT
+  (S
+    (ADVP (RB Almost))
+    (VP (VBD got)
+      (NP
+        (NP
+          (PP (IN into)
+            (NP (DT an) (NN accident)))
+          (PP (CC cause)
+            (NP (NN someone))))
+        (VP (VBD ran)
+          (NP (DT a) (JJ red) (NN light)))))))
+
+(ROOT
+  (S
+    (NP (HT #np) (NNP Impossible))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Stadium) (NNS staff))
+      (NP (VBP won't)))
+    (VP (VB let)
+      (SBAR
+        (WHADVP (NN anyone))
+        (S
+          (VP (VB see)
+            (NP
+              (NP (DT the) (JJ controversial) (NN pitch))
+              (VP
+                (WHADVP (RB until))
+                (VP (VBZ it's)
+                  (NP (NN time)
+                    (ADVP (IN for)
+                      (NP (NNP City))))
+                  (VP (TO to) (VB train)
+                    (NP (EX there))))))
+            (PP (IN at)
+              (PP (IN about)
+                (NP (CD 3.30))))))))
+    (PP (IN UK)
+      (NP (NN time.)))
+    (PP (WDT What)
+      (NP
+        (NP (PRP they))
+        (VP (VBG hiding?))))))
+
+(ROOT
+  (NP
+    (NP (PRP$ my) (NN pops))
+    (PP (VBZ says)
+      (NP (NN chipote)))))
+
+(ROOT
+  (S
+    (PP (JJ Good)
+      (NP
+        (QP (NN Morning) (NNS People))))))
+
+(ROOT
+  (S
+    (NP (VBZ Let)
+      (NP (PRP me)))
+    (VP (VB beeee)
+      (NP (PRP$ your) (NN fantassssy)))))
+
+(ROOT
+  (S
+    (WHADVP (MD We'll))
+    (NP (NNP Be) (VBZ Coming)
+      (NP
+        (NP (NN Back)
+          (PP (VBG (feat.)
+            (NP (NN Example)))))
+        (PP (IN by)))
+      (NP
+        (NP (USR @CalvinHarris))
+        (PP (URL https://t.co/f31d9rW8bg))))))
+
+(ROOT
+  (NP
+    (NP (NN kony)
+      (PP (MD will)
+        (NP
+          (QP (RB never) (VB be)))))
+    (NP (VBN captured.))))
+
+(ROOT
+  (S
+    (ADVP (RB Maybe)
+      (PP (IN on)
+        (NP (JJ social))))
+    (VP (NN media.)
+      (NP (HT #kony2012)))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (PRP You) (VBP know))
+      (SBAR
+        (S
+          (NP (PRP we)
+            (VP (VBD got)
+              (NP (NNS things))))
+          (VP (TO to)
+            (VP (VB do,)
+              (NP
+                (NP (RB so))
+                (VP (VB get)
+                  (NP (PRP$ your) (NN ass)))))))))
+    (NP
+      (NP (RP up))
+      (PP (IN in)
+        (NP (JJ this) (NN car)
+          (CC and)
+          (NP
+            (NP (VBN come))
+            (PP (IN thru))))))))
+
+(ROOT
+  (NP
+    (NP (JJ Fine!))
+    (NP (RB Maybe))
+    (NP (PRP I) (MD will!))))
+
+(ROOT
+  (FRAG
+    (NP (CD 7) (NNS Psychopaths.))))
+
+(ROOT
+  (S
+    (NP
+      (NP (USR @AnimatedInk))
+      (NP (JJ funny) (NN story)))
+    (VP (VBP we're)
+      (NP
+        (NP
+          (NP
+            (NP
+              (NP (VBG talking))
+              (PP (IN about)))
+            (PP (VBG doing)
+              (NP
+                (NP (DT a) (JJ full)
+                  (NP (CD 2001) (NN episode)))
+                (VP (VBG looking)))))
+          (PP (IN at)
+            (NP (NN book))))
+        (VP (CC and)
+          (NP (NN movie,))))
+      (VP (TO to) (VB replace)
+        (NP (PRP$ our)
+          (NP (JJ failed) (NNS tries)))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Artinya) (USR ."@fathulrizkoh_:))
+    (NP
+      (NP (RB Now))
+      (PP (DT that)
+        (NP
+          (NP (VBP we're))
+          (VP (NN here,Now)
+            (WHADVP (RB that))
+            (VP (VBP we've)))))
+      (NP (VBN come))
+      (NP (DT this) (JJ far,Just)
+        (NP
+          (NP (VB hold))
+          (PP (IN on.)))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP
+        (NP (NN There)
+          (PP (VBZ is)
+            (NP (NN nothing))))
+        (VP (TO to) (VB fear,)))
+      (PP (IN For)))
+    (NP (PRP I) (VBP am))
+    (NP
+      (NP (RB right))
+      (PP (IN beside)))))
+
+(ROOT
+  (S
+    (VP (VB Sleep)
+      (NP (UH Huaaaaa)))))
+
+(ROOT
+  (FRAG
+    (NP (NN Somebody)
+      (VP (PRP That)
+        (NP
+          (NP (PRP I) (VBP Used))
+          (VP (TO to) (VB Know)))))
+    (VP (VBG (feat.)
+      (NP
+        (NP
+          (NP (NNP Kimbra)))
+          (PP (IN by)
+            (NP (NNP Gotye))))
+        (PP (URL https://t.co/tnZDDd3D0h))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP didn't)
+      (VP (VB know)
+        (NP (PRP u)
+          (PP (VBZ had)
+            (NP (NNS tats))))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (VB Get))
+      (PP (JJ well)
+        (NP
+          (QP (RB very) (JJ soon,)))))
+    (NP (RB oma.))))
+
+(ROOT
+  (NP
+    (NP (VBP We))
+    (NP
+      (NP (VB love))
+      (PP (IN u.)))))
+
+(ROOT
+  (S
+    (NP (NNP God,))
+    (VP
+      (WHADVP (RB please))
+      (VP (VB heal)
+        (NP (PRP$ her) (NN pain.))))))
+
+(ROOT
+  (S
+    (VP (HT (at)
+      (NP (NNP Royal) (NNP HospitaL)))
+      (PP (URL https://t.co/BvKDxVi0cM)))))
+
+(ROOT
+  (S (WDT What)
+    (NP (VBZ is)
+      (NP
+        (NP (VBG going))
+        (PP (IN on))))
+    (PP (IN with)
+      (NP (DT the)))
+    (NP (USR @DOTA2))
+    (VP
+      (NP (NNS servers?)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP seem) (TO to)
+      (VP (VB say)
+        (PP (IN "after)
+          (NP (CD one)))))
+    (PP (JJ more)
+      (NP (NN episode)))
+    (PP (IN of)
+      (NP
+        (NP (NNP Breaking) (NNP Bad"))
+        (VP (IN after)
+          (NP
+            (NP (JJ every) (NN sentence))
+            (PP (JJ these)
+              (NP (NNS days)))))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (JJ sure))
+    (VBD did!)))
+
+(ROOT
+  (FRAG
+    (VP (RB Finally!))))
+
+(ROOT
+  (NP
+    (NP
+      (NP
+        (NP (NNP BBM))
+        (PP (IN for)))
+      (PP (NNP Android!)
+        (NP (CD [pic]))))
+    (PP (URL https://t.co/Rb3z2mG0QX))))
+
+(ROOT
+  (NP
+    (NP (PRP I) (VBP am))
+    (NP
+      (NP (JJ okay))
+      (PP (IN with)
+        (NP (NN this.))))))
+
+(ROOT
+  (S
+    (NP (NNP Boris) (NNP Yeltsin))
+    (VP (VBD doesn't)
+      (NP
+        (NP (RB half))
+        (VP (VB love))
+        (VP (TO to)
+          (NP (NN dance.co/2wzY531xQH)))))))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (MD Can't)
+      (VP (VB Stop)
+        (PP (IN by)
+          (NP
+            (NP (USR @MileyCyrus))
+            (PP (URL https://t.co/YM4wK50hNf))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Umm))
+        (FRAG
+          (NP
+            (NP (PRP u))
+            (PP (MD should)
+              (NP
+                (NP (VB have))
+                (SBAR
+                  (S
+                    (VP (VB done)
+                      (SBAR
+                        (WHADVP (DT that))
+                        (S
+                          (VP
+                            (WHADVP (WRB when))
+                            (NP (NN we)))))))))))
+          (NP (VBD were))))
+      (PP (IN in)
+        (NP (NN school.who))))
+    (VP
+      (WHADVP (VBZ explores.lol)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Bonnie)
+        (CC and))
+      (NP (NNP Clyde)))
+    (VP (VBD was)
+      (NP
+        (NP
+          (NP (VBN made))
+          (PP (CD 10)))
+        (VP (NNS years) (RB ago.))))
+    (PP (UH Damn)
+      (NP
+        (NP
+          (NP (PRP I) (VBP feel))
+          (PP (JJ old.)
+            (NP (PRP Hov))))
+        (SBAR
+          (S
+            (NP (CC and)
+              (NNP B))
+            (VP (VBP must)
+              (VP (VB be)
+                (NP (DT the) (JJ real) (NN deal))))))))))
+
+(ROOT
+  (FRAG
+    (NP (JJ Late) (NN night))
+    (VP (VB see)
+      (PP (PRP$ Ya)
+        (NP (CD .))))))
+
+(ROOT
+  (S
+    (VP (VBP Lets) (VB gooo))
+    (NP
+      (NP (VBP im))
+      (PP (IN down)))))
+
+(ROOT
+  (NP
+    (NP (CC cause)
+      (VBP I'm))
+    (PP (VBG tweeting)
+      (NP (DT a) (NN song?)))))
+
+(ROOT
+  (NP
+    (NP (JJ Master) (NN swordsman))
+    (NP (VBN done))
+    (NP (VB know))))
+
+(ROOT
+  (S
+    (ADVP (RB Definitely))
+    (VP (MD could) (VB have)
+      (NP
+        (NP (RB not))
+        (VP (VBN gone)
+          (PP (TO to)
+            (NP (NN class))))
+        (VP (CC and)
+          (NP
+            (NP (VBN slept))
+            (PP (IN instead))))))))
+
+(ROOT
+  (FRAG
+    (NP
+      (ROOT (CD 14:53) (NNP BST:)))
+    (NP
+      (NP (NNP Temperature:))
+      (PP (CD 15.2)
+        (NP
+          (NP
+            (NP (NNP C,) (NNP Wind:))
+            (PP (NNP W,)
+              (NP (CD 1) (NN mph))))
+          (FRAG
+            (NP (NN (ave),) (CD 8) (NN mph))
+            (NP
+              (NP (NN (gust),)
+                (PP (NNP Humidity:)
+                  (NP (CD 85%,) (NN Rain))))
+              (PP (JJ (hourly))
+                (NP (CD 0.3) (NN mm,)
+                  (PP (NNP Pressure:)
+                    (NP (CD 997) (NN hPa,)))))
+              (NP (VBG falling))
+              (NP (RB slowly)))))))))
+
+(ROOT
+  (FRAG
+    (NP (NNP Tooki))))
+
+(ROOT
+  (S
+    (NP (PRP we))
+    (VP (VBD were)
+      (NP
+        (NP
+          (NP (VBN seated))
+          (PP (IN at)
+            (NP (DT the) (NN side))))
+        (VP (IN about)
+          (NP (DT the) (NN middle) (NN area.)))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (CC However)
+        (VBZ is))
+      (VP
+        (ADVP (RB just))
+        (VBN bought)))
+    (NP (DT a)
+      (ADJP (RB really) (JJ expensive))
+      (NN camera.))))
+
+(ROOT
+  (S
+    (VP (VBD Got)
+      (NP
+        (NP (JJ other) (NNS photos))
+        (VP (CC and)
+          (NP (NNS vids)))))))
+
+(ROOT
+  (S
+    (NP (TO To)
+      (VP (VB wear)))
+    (VP (NN blue)
+      (NP
+        (NP (CC or))
+        (VP
+          (WHADVP (RB not))
+          (VP (TO to) (VB wear)
+            (NP (NN blue))))))))
+
+(ROOT
+  (S
+    (VP (VBP im) (RB just)
+      (VP (VBG wantin)
+        (NP (DT a) (NN oregon) (NN bama))))
+    (NP
+      (NP (NN game)
+        (PP (IN at)))
+      (NP (DT the) (NNP end.)))))
+
+(ROOT
+  (S
+    (WHADVP (MD Cant))
+    (VP (VBP have)
+      (NP (NN fsu))
+      (VP (VBG ruining)
+        (NP (PRP it.))))))
+
+(ROOT
+  (NP
+    (NP (PRP It's))
+    (NP (JJ all) (NNS lies!))))
+
+(ROOT
+  (S
+    (VP (VBZ They're)
+      (NP
+        (NP (RB not))
+        (PP (RB even)
+          (NP (JJ square!)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 16) (NNS hours))
+      (NP (NN left)
+        (PP (IN of)
+          (NP (NN work)))))
+    (ADVP (RB then))
+    (ADVP (IN off)
+      (PP (TO to)
+        (NP
+          (NP
+            (NP (USR @doorcounty))
+            (PP (IN for)
+              (NP (DT the) (NN weekend))))
+          (PP (IN with)
+            (NP (DT the) (NNS gals.))))))))
+
+(ROOT
+  (S
+    (NP (NN leg)
+      (S
+        (NP (NN day)
+          (S
+            (NP (VBZ is) (VBG going))))
+        (VP (TO to)
+          (VP (VB be)
+            (NP (DT a) (JJ big) (NN shock))))))
+    (VP (UH haha))))
+
+(ROOT
+  (NP (JJ Young)
+    (NP (NN kid)
+      (PP (IN with)
+        (NP (JJ no) (NN soul)
+          (CC and)
+          (NP
+            (NP (DT a) (NN change))
+            (PP (IN of)
+              (NP (NN heart)))))))))
+
+(ROOT
+  (S
+    (VP (JJ Happy)
+      (NP (NNP Birthday) (NN shoutout))
+      (PP (TO to)
+        (NP
+          (NP (USR @ImGabeBerner))
+          (SBAR
+            (S
+              (NP (HT #thettruefirstbasecoach#turnuponetime)))))))))
+
+(ROOT
+  (FRAG
+    (ADVP (IN At)
+      (PP (NNP Pluit)
+        (NP
+          (NP (NNP Sakti) (NNP Hawker) (NNP Food) (NNP Centre))
+          (PP (URL https://t.co/h2Bvv6aIes)))))))
+
+(ROOT
+  (FRAG
+    (NP (JJ Good) (NN morning!))))
+

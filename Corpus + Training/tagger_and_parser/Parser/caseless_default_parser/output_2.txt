@@ -1,0 +1,663 @@
+(ROOT
+  (S
+    (NP (NNP iPad))
+    (VP (NN air))
+    (HT #eh)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP see)
+      (NP
+        (NP (JJ no) (NN mention))
+        (PP (IN of)
+          (NP
+            (NP (NNP iPad) (NNP Air))
+            (PP (IN with)
+              (NP (NNP 32GB)
+                (CC or)
+                (NNP 64GB,))))))
+      (PP (RB only)
+        (NP (NNP 16GB.strange))))))
+
+(ROOT
+  (NP
+    (NP (NNP iPad) (NNP Air.))
+    (NP (JJ Next) (NN time))
+    (NP (NNP iPad) (NN Fire))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP iPad) (NNP Air?))
+      (SBAR
+        (S
+          (ADVP (RB Really?))
+          (NP (PRP I))
+          (VP (MD could)
+            (ADVP (RB almost))
+            (VP (VB see)
+              (NP (NN people))
+              (PP (IN in)
+                (NP (DT the) (JJ audience))))))))
+    (VP (VBZ forcing)
+      (S
+        (NP (NNS themselves))
+        (RB not)
+        (VP (TO to)
+          (VP (VB laugh.)))))
+    (HT #AppleKeynote)))
+
+(ROOT
+  (SINV (VBZ Does)
+    (NP (DT the) (JJ new) (NNP iPad) (NNP Air))
+    (VP (VBZ has)
+      (NP (JJ airplane) (NN mode?)))))
+
+(ROOT
+  (NP
+    (NP (NNP iPad) (NNP Air))
+    (PP (RB not)
+      (NP
+        (NP (NNP iPad) (NNP S,) (NNPS Johnny.))
+        (VP
+          (NP (UH Lol))
+          (ADVP (HT #apple)))))))
+
+(ROOT
+  (S
+    (VP (USR @jdisis)
+      (NP (UH lol))
+      (ADVP (RB no)
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP meant)
+              (SBAR
+                (S
+                  (NP
+                    (NP (DT the) (NN idea))
+                    (PP (IN of)
+                      (NP (DT an) (NNP iPad) (NNP air.) (NNP How))))
+                  (VP (VBZ is)
+                    (NP
+                      (NP (DT this)
+                        (ADJP (DT that) (JJ much))
+                        (NN diff))
+                      (PP (IN from)
+                        (NP (DT the) (NNP iPad)))
+                      (SBAR
+                        (S
+                          (NP (PRP I))
+                          (ADVP (RB already))
+                          (VP (VBD have???)))))))))))))))
+
+(ROOT
+  (S
+    (NP (NNP iPad) (NNP Air.))
+    (ADVP (RB kinda)
+      (PP (IN like)))
+    (VP (MD Will)
+      (ADVP
+        (ADVP
+          (ADVP (RB Smith's) (RB gun))
+          (PP (IN in)
+            (NP (NNP MIB.) (NNP "Feel))))
+        (SBAR (IN like)
+          (S
+            (VP (VBP I'm)
+              (S
+                (VP (VBG gonna)
+                  (S
+                    (VP (NN break)
+                      (NP (DT this) (NN damn) (NN thing"))))))))))
+      (VP (HT #apple)
+        (NP (HT #ipad))))
+    (HT #ipadair)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP shouldn't)
+      (VP (VB watch)
+        (NP
+          (NP (NN these) (NNP Apple) (NN events!!))
+          (ADVP (RB Now))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP want)
+                (NP (DT an) (NNP iPad) (NNP Air!!!))))))))))
+
+(ROOT
+  (NP
+    (NP (NNP iPad) (NNP Air))
+    (: -)
+    (NP
+      (NP (CD 5th) (NNP Generation))
+      (PP (IN of)
+        (NP (NNP iPad!) (HT #Apple))))
+    (HT #iPadAir)))
+
+(ROOT
+  (S
+    (NP (RB Only)
+      (NP
+        (NP (NNP iPad) (CD 2,))
+        (NP (NNP iPad) (NNP Air))))
+    (ADJP (JJ available))))
+
+(ROOT
+  (S
+    (NP (NNP Apple))
+    (ADVP (RB just))
+    (VP (VBN named)
+      (S
+        (NP (PRP it))
+        (NP (NNP iPad) (NNP Air))
+        (S
+          (VP (TO to)
+            (VP (VB merge)
+              (NP
+                (NP (NN their) (NNS adwords) (NNS keywords))
+                (PP (HT #adwords)
+                  (NP (HT #apple) (HT #ipad)))))))))
+    (HT #ipadair)))
+
+(ROOT
+  (S
+    (NP (NNP iPad) (NNP Air))
+    (VP (VBZ is)
+      (ADJP (JJ nice,))
+      (ADVP (RB but)
+        (S
+          (VP (VBZ is)
+            (NP
+              (NP (PRP it))
+              (ADVP
+                (ADJP (DT that) (JJ much) (JJR nicer))
+                (PP (IN than)
+                  (NP (PRP$ my) (NNP iPad))
+                  (NP (CD 3?))))
+              (SBAR
+                (S
+                  (NP (PRP It))
+                  (VP (VBZ does)
+                    (S
+                      (NP (NN look))
+                      (ADJP (JJ different.)))))))))))))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NNP iPad) (NNP air?) (JJ No) (NN touch) (NN id,))
+      (RRC
+        (ADVP (RB still))
+        (NP
+          (NP (CD 16) (NN gig) (NN base))
+          (NP
+            (NP (JJ after)
+              (ADJP
+                (NP (CD 5) (NNS years,))
+                (RB still))
+              (NN selling))
+            (NP (DT the) (NNP iPad) (CD 2.) (JJ No) (NN thank))))))
+    (SBAR
+      (S
+        (NP (PRP you))
+        (VP (HT #AppleKeynote))))
+    (HT #applefail)))
+
+(ROOT
+  (S
+    (NP (NNP iPad) (NNP Air))
+    (VP (VBZ looks)
+      (ADJP (JJ impressive.)))
+    (HT #iPadAir)))
+
+(ROOT
+  (NP
+    (NP (NNP Apple))
+    (PP (TO to)
+      (S
+        (VP (VBG bring)
+          (PRT (RP out))
+          (NP
+            (NP (JJ new) (NNP IPad) (NNP Air,))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ weighs)
+                  (NP (CD one) (NN pound)))))))))))
+
+(ROOT
+  (SINV
+    (VP (VBD Started)
+      (S
+        (VP (VBG making)
+          (NP (NNP iPad) (NNP Air)))))
+    (NP
+      (NP (NNS years))
+      (ADVP (RB ago.))
+      (SBAR (IN shit,)
+        (S
+          (NP (NNP god))
+          (VP (VBZ knows)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (JJ crazy) (NNS stuff))
+                (VP (VBZ they're)
+                  (S
+                    (VP (VBG building)
+                      (ADVP (RB now))
+                      (PP (IN for)
+                        (NP
+                          (NP (NN release))
+                          (PP (IN in)
+                            (NP (DT a) (NN few) (NNS years) (NN time!!))))))))))))))))
+
+(ROOT
+  (SINV
+    (VP (VBP I'm)
+      (PP (IN in)
+        (NP (NN love)))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NNP iPad) (NNP Air,))
+          (SBAR
+            (S
+              (VP (VBP I'm)
+                (SBAR (RB just)
+                  (S
+                    (VP (VBP saying.)
+                      (S
+                        (NP (PRP I))
+                        (VP (VBN jumped)
+                          (PP (TO to)
+                            (NP (DT the) (NN mini)))))
+                      (SBAR (IN because)
+                        (S
+                          (NP
+                            (NP (DT the) (NN big))
+                            (NP (CD one)))
+                          (VP (VBD was)
+                            (ADJP (RB too) (JJ fat))))))))))))))
+    (NP
+      (NP (NNP &amp;))
+      (NP
+        (NP (JJ heavy.))
+        (ADJP (RB No) (JJR longer!))))))
+
+(ROOT
+  (S
+    (SBAR (USR @nbc6:)
+      (S
+        (NP (HT #BREAKING:) (NNP Apple))
+        (VP (VBZ has)
+          (VP (VBN debuted)
+            (NP (PRP$ its) (JJ new) (NNP iPad) (NNP Air,))))))
+    (NP (PRP it))
+    (VP (VBZ says)
+      (S
+        (NP (PRP it))
+        (ADJP
+          (ADJP
+            (ADJP (JJR thinner,))
+            (ADJP (JJR lighter)
+              (CC and)
+              (JJR faster)))
+          (PP (IN than)
+            (NP (DT the) (JJ previous) (NN model))))))
+    (URL http://t.co/WZw9DE0emx)))
+
+(ROOT
+  (SINV
+    (VP (VBP need)
+      (S
+        (NP (DT an) (NNP iPad) (NNP Air) (NN somebody))
+        (VP (VB buy)
+          (S
+            (NP (PRP$ mine))
+            (ADJP (IN off))))))
+    (NP (PRP me?))))
+
+(ROOT
+  (FRAG (CC And)
+    (NP
+      (NP (NNP Apple))
+      (SBAR
+        (S
+          (S
+            (VP
+              (ADVP (RB just))
+              (VBN killed)
+              (ADVP (RB any)
+                (NP
+                  (NP (NN chance))
+                  (PP (IN of)
+                    (NP (JJ widespread) (NNS success)))))
+              (PP (IN with)
+                (NP
+                  (NP (DT the) (NN cost))
+                  (PP (IN of)
+                    (NP (DT the) (NNP iPad) (NNP Air.) (NNP iPad)))))))
+          (VP (VBD isn't)
+            (SBAR
+              (S
+                (NP (DT a) (NN laptop) (NN replacement,))
+                (VP (VBZ it's)
+                  (NP (DT an) (NN add-on)))))))))))
+
+(ROOT
+  (SINV
+    (NP (HT #AppleEvent,) (JJ new) (NNP iPad))
+    (VP
+      (ADVP (RB now))
+      (VBN called)
+      (S
+        (NP (NNP iPad) (NNP Air!))
+        (ADVP (RB Why?)))
+      (S
+        (VP (VB Has)
+          (NP (DT the) (JJ new) (NNP A7) (NN chip.) (CD $499)))))))
+
+(ROOT
+  (NP (USR @lucasbraga) (NNP iPad) (NNP Air!!!!)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP thought)
+      (SBAR
+        (S
+          (NP (DT the) (NNP iPad) (NNP Air))
+          (VP (VBD was)
+            (NP (DT the) (JJ new) (NNP iPad) (NNP Mini?))))))))
+
+(ROOT
+  (NP
+    (NP (NNP iPad) (NNP Air))
+    (NP (PRP you))
+    (NP (JJ skinny) (NN bitch!!))))
+
+(ROOT
+  (NP (NNP iPad) (NNP Air!) (HT #Apple)))
+
+(ROOT
+  (S
+    (NP (NNP iPad) (NNP Mini,) (NNP iPad) (NNP Air,) (NNP iPad) (NNP Vente))
+    (VP (VBZ Its)
+      (SBAR
+        (S
+          (NP (CD 20))
+          (VP (VBZ inches)
+            (NP (NN long,))
+            (SBAR (RB so)
+              (S
+                (NP (PRP it))
+                (VP (VBZ makes)
+                  (NP (NN sense)))))))))))
+
+(ROOT
+  (SBARQ
+    (WHPP (USR @MRJCONSULTING09)
+      (WHNP (WP what)))
+    (SQ (VBZ is)
+      (NP (DT the) (NNP iPad) (NNP air??)))
+    (HT #bcamp13)))
+
+(ROOT
+  (S
+    (NP (NNP iPad) (NNP air))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ stupidest) (NN name))
+        (SBAR
+          (S
+            (NP (NNP I've))
+            (VP (VB heard))))))))
+
+(ROOT
+  (SINV
+    (VP (VBP I'm))
+    (NP
+      (NP (DT a)
+        (ADJP (RB pretty) (JJ big))
+        (NN fan))
+      (PP (IN of)
+        (NP (DT the) (NNP iPad) (NNP Air.))))))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP iPad) (NNP Air.))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (PP (IN like)
+            (SBAR
+              (WHNP (WP what))
+              (S
+                (NP (PRP I))
+                (VP (VBP hear!))))))))))
+
+(ROOT
+  (S
+    (NP (NNP iPad) (NNP Air))
+    (VP (VBZ is)
+      (ADJP (JJ AMAZING!)))
+    (HT #TEAMAPPLE)))
+
+(ROOT
+  (SINV
+    (VP (UH Ouch,)
+      (NP (PRP$ my) (NN credit) (NN card.))
+      (UCP
+        (VP
+          (ADVP (RB Probably))
+          (VBG going)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (VP (VBG buying)
+                  (NP (DT an) (NNP iPad) (NN mini,) (NNP iPad) (NNP Air,)))))))
+        (CC and)
+        (ADJP (JJ retina))))
+    (NP (NNP MacBook) (NNP Pro.))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP iPad) (NNP Air))
+    (VP
+      (ADVP (RB basically))
+      (VBZ addresses)
+      (SBAR
+        (ADVP (RB every))
+        (IN problem)
+        (S
+          (NP (PRP I))
+          (VP (VBZ had)
+            (PP (IN with)
+              (NP
+                (NP (DT the) (NN never-shrinking) (NN size))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN main) (NNP iPad,))
+                    (FRAG
+                      (INTJ (UH +)))))))
+            (NP
+              (NP (DT a)
+                (ADJP (JJR better))
+                (NNP FaceTime) (NNP cam))
+              (PP (IN than)
+                (NP (PRP$ my) (NN phone.))))))))))
+
+(ROOT
+  (S
+    (NP (NNP iPad) (NNP Air.))
+    (VP (VBZ that's)
+      (ADJP (JJ funny.)))))
+
+(ROOT
+  (S
+    (NP (NNP iPad) (NN mini) (NN retina))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ same) (NN res))
+        (PP (IN as)
+          (NP (DT the) (NNP iPad) (NNP air.)))))))
+
+(ROOT
+  (S
+    (VP (VB Scratch)
+      (NP (NN that.))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP want)
+            (NP
+              (NP (DT an) (NNP iPad) (NNP Mini))
+              (PP (IN with)
+                (NP (NNP Retina))))
+            (PP (IN instead)
+              (PP (IN of)
+                (NP (DT the) (NNP iPad) (NNP Air.))))))))))
+
+(ROOT
+  (S
+    (NP (NNP iPad))
+    (VP (NN air)
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP am)
+            (VP (VBG going)
+              (S
+                (VP (TO to)
+                  (VP (VB own)
+                    (S
+                      (NP (NN u,))
+                      (ADJP (JJR faster))
+                      (S
+                        (VP (VB fly)
+                          (PP (TO to)
+                            (NP (PRP$ my) (NN place.))))))))))))))))
+
+(ROOT
+  (SINV (USR @macrumorslive:)
+    (NP (CD 7.9-inches,) (NN 2048x1536) (NN pixels,))
+    (ADJP (JJ same)
+      (PP (IN as)
+        (NP
+          (NP (DT the) (NNP iPad) (NNP Air.))
+          (SBAR
+            (S
+              (NP (DT "The) (NN experience))
+              (VP (VBZ is)
+                (ADVP (RB just))
+                (NP (JJ amazing.") (NN Insane!))))))))))
+
+(ROOT
+  (X
+    (X (UH OMG,))
+    (S (RB SO)
+      (VP (VBG getting)
+        (NP (DT an) (NNP iPad) (NNP Air))))))
+
+(ROOT
+  (NP (NNP iPad) (NNP Air!)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NNP iPad))
+      (SBAR
+        (S
+          (NP
+            (NP (NN mini))
+            (CC and)
+            (NP (NNP iPad) (NNP Air)))
+          (VP (VB share)
+            (NP (RB exactly) (DT the) (JJ same) (NN resolution.))))))))
+
+(ROOT
+  (NP (DT The) (NNP iPad) (NNP Air?!)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Ipad) (NNP Air.))
+        (SBAR
+          (S
+            (VP
+              (NP
+                (INTJ (UH Hehehe))
+                (NP (NN lemme)))))))
+      (SBAR
+        (S
+          (VP (VB guess)
+            (NP (DT this))))))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB rival)
+            (NP (NNP Samsung) (NNP Note) (CD 3))))))))
+
+(ROOT
+  (FRAG
+    (ADJP (RB as) (JJ well))
+    (S
+      (VP (VB rename)
+        (NP (DT the) (NNP iPad) (NN mini) (NNP iPad) (NNP Air) (NNP Mini))))))
+
+(ROOT
+  (NP (NNP iPad) (NNP Air) (URL http://t.co/UR6UsPazuY)))
+
+(ROOT
+  (PP
+    (NP (UH Oh))
+    (PP
+      (ADVP (JJ new))
+      (ADJP
+        (ADJP (NNP iPad) (NNP Mini))
+        (CC or)
+        (ADJP (NNP IPad) (NNP Air?))))))
+
+(ROOT
+  (S
+    (NP (NNP iPad) (NNP Air) (NNP Bud:))
+    (VP (VBZ There's)
+      (SBAR
+        (S
+          (NP (JJ no) (JJ rule))
+          (VP (VBP saying)
+            (SBAR
+              (S
+                (NP (DT a) (NN dog))
+                (VP (MD can't)
+                  (VP (VB use)
+                    (NP (DT a) (NN tablet))))))))))))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNP God) (NNP iPad) (NNP Air))
+    (VP
+      (NP (UH namanya.))
+      (NP
+        (NP (JJ Wow.))
+        (PP (IN Tebel)))
+      (PP (NN cuma)
+        (NP (NNP 7,5mm) (NNS [pic]))))
+    (URL https://t.co/oVjEVJW4Hg)))
+
+(ROOT
+  (SINV
+    (VP (VBZ There's)
+      (S
+        (VP (VBG gonna)
+          (VP (VB be)
+            (NP (DT an) (NNP iPad) (NNP Air))))))
+    (NP (HT #Whaaaaat) (HT #PreOrder))))
+
