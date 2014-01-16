@@ -13,7 +13,7 @@ It summarizes the sentiment of Twitter users on a certain topic. The application
 The source for the application can be found in the [Application directory] (https://github.com/radzinzki/NLP/tree/master/Application). There is a readme there for further instructions.
 The corpus and training data is in a  directory called [Corpus + Training](https://github.com/radzinzki/NLP/tree/master/Corpus%20%2B%20Training). That also has another readme for further instructions.
 
-The project uses a re-trained [Standford Parser](http://nlp.stanford.edu/software/lex-parser.shtml) for Syntactic parsing and a re-trained [Twitie Tagger](http://gate.ac.uk/wiki/twitie.html) for part-of-speech tagging.
+The project uses a re-trained [Standford Parser](http://nlp.stanford.edu/software/lex-parser.shtml) for Syntactic parsing and a re-trained [Twitie Tagger](http://gate.ac.uk/wiki/twitie.html) for part-of-speech tagging. It uses the [NLTK](http://nltk.org) for the sentiment analysis on the Tweets.
 
 
 The application is also deployed on Heroku and can be found at: http://twittersummarizer.herokuapp.com.
@@ -22,3 +22,8 @@ Unfortunately, due to the storage constraints of the free tier of Heroku, we onl
 to give an idea as to how the final application should look like after the local deployment.
 
 The [final assignment report](https://github.com/radzinzki/NLP/blob/master/AssignmentReport.pdf) detials all the techniques used for the project, including the processes for training the parser and tagger, our data pipeline, and how the application works.
+
+
+Credits: 
+- [Andy Bromberg's excellent blogpost detailing an example of Sentiment Analysis](http://andybromberg.com/sentiment-analysis-python/)
+- [badhessian.org's Collecting real-time Twitter data with the Streaming API](http://badhessian.org/2012/10/collecting-real-time-twitter-data-with-the-streaming-api/)
