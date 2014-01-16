@@ -8,7 +8,7 @@ This is the source for the web interface for the TwitterNLP project – an assi
 - Sahil Bajaj
 - Arnav Kumar
 
-It summarizes the sentiment of Twitter users on a certain topic. The application lists the positive and negative de- scriptions of a topic on Twitter. The most precise descriptive phrase for the subject needs to be ex- tracted before the sentiment can be determined which implies that the entire corpus can’t be anno- tated with the sentiment for each sentence. For dif- ferent queries different parts of the sentence might be considered. Hence, the sentiment analysis is the last step before the display of results to the user.
+It summarizes the sentiment of Twitter users on a certain topic. The application lists the positive and negative descriptions of a topic on Twitter. The most precise descriptive phrase for the subject needs to be extracted before the sentiment can be determined which implies that the entire corpus can’t be annotated with the sentiment for each sentence. For different queries different parts of the sentence might be considered. Hence, the sentiment analysis is the last step before the display of results to the user.
 
 The source for the application can be found in the [Application directory] (https://github.com/radzinzki/NLP/tree/master/Application). There is a readme there for further instructions.
 The corpus and training data is in a  directory called [Corpus + Training](https://github.com/radzinzki/NLP/tree/master/Corpus%20%2B%20Training). That also has another readme for further instructions.
